@@ -20,6 +20,7 @@ baseurl: '/enrollment' # the subpath of your site, e.g. /blog
 url: 'https://dsc-capstone.org' # the base hostname & protocol for your site, e.g. http://example.com
 author: Suraj Rampure
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: [vendor] 
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.8.1
