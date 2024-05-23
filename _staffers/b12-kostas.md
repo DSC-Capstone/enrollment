@@ -1,6 +1,6 @@
 ---
 name: Lindsey Kostas
-email: lkostas@qti.qualcomm.com
+email: With questions for industry partners, email Suraj
 photo: assets/images/lindsey-kostas.jpeg
 website: https://www.linkedin.com/in/lindsey-kostas-a95115105/
 domain: B12
