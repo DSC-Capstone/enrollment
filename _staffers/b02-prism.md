@@ -3,17 +3,17 @@ dual: True
 trio: True
 
 name1: Brian Duke
-email1: brian.duke@prismdata.com
+email1: With questions for industry partners, email Suraj
 website1: www.prismdata.com
 photo1: assets/images/brian-duke.jpeg
 
 name2: Kyle Nero
-email2: kyle.nero@prismdata.com
+email2: berk@ucsd.edu
 website2: https://www.linkedin.com/in/kylenero/
 photo2: assets/images/kyle-nero.jpeg
 
 name3: Berk Ustun
-email3: berk@ucsd.edu
+# email3: berk@ucsd.edu
 website3: https://www.berkustun.com
 photo3: assets/images/berk.jpeg
 

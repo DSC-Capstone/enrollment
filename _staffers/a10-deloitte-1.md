@@ -1,12 +1,12 @@
 ---
 dual: True
 name1: Emily Ramond
-email1: eramond@deloitte.com
+email1: With questions for industry partners, email Suraj
 photo1: assets/images/emily-ramond.png
 website1: https://www.linkedin.com/in/emily-ramond/
 
 name2: Greg Thein
-email2: gthein@deloitte.com
+# email2: gthein@deloitte.com
 photo2: assets/images/greg.jpeg
 website2: https://www.linkedin.com/in/gregorythein/ 
 

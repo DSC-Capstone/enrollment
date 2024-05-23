@@ -3,17 +3,17 @@ dual: True
 trio: True
 
 name1: Nimu Sidhu
-email1: nimsidhu@deloitte.com
+email1: With questions for industry partners, email Suraj
 website1: https://www.linkedin.com/in/gurnimrat-sidhu/
 photo1: assets/images/nimu.jpeg
 
 name2: Abed El-Husseini
-email2:
+# email2:
 website2: https://www.linkedin.com/in/aelhusseini
 photo2: assets/images/abed.jpeg
 
 name3: Somayeh Koohbor
-email3: 
+# email3: 
 website3: https://www.linkedin.com/in/somayeh-koohbor-ph-d-a74a5b93/
 photo3: assets/images/somayeh.jpeg
 

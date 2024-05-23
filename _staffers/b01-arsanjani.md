@@ -1,6 +1,6 @@
 ---
 name: Ali Arsanjani
-email: arsanjani@google.com
+email: With questions for industry partners, email Suraj
 photo: assets/images/arsanjani.jpeg
 website: alternusvera.com
 domain: B01
