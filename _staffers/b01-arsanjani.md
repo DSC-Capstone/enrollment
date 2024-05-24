@@ -1,6 +1,6 @@
 ---
 name: Ali Arsanjani
-email: With questions for industry partners, email Suraj
+email: arsanjani@google.com
 photo: assets/images/arsanjani.jpeg
 website: alternusvera.com
 domain: B01
@@ -14,5 +14,4 @@ time: Thursday 3:30-5PM, In-Person
 style: As a formal course, and in teams
 seats: 8
 tag: Language Models
-industry: Google
 ---
