@@ -24,6 +24,6 @@ oldstudent: https://drug-repurposing-gnn.github.io/Drug-Repurposing-Website/
 prerequisites: Students should already have experience with neural network models (e.g., CNNs, RNNs, or best but not required, GNNs). Solid knowledge of linear algebra and graph theory is preferred.
 time: Wednesday 9-10AM, In-Person
 style: We expect students to be self motivated to do the reading and coding tasks in Q1 and to take ownership of their projects in Q2, with our support. Students are expected to treat the project seriously and devote sufficient time to making weekly progress toward their goals. We are always happy to discuss and help problem-solve.
-seats: 8
+seats: 10 (recently expanded)
 tag: Theoretical Foundations
 ---
