@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 {: .success }
-> **Update (May 27th, 10PM): One new domain (A17) will be added, and three domains (A09, A16, and B02) will be expanded, for a total of 10 added seats. These changes should be live in the Schedule of Classes in the next day or so.**<br><br>**Welcome! 👋 This page was just updated for Fall 2024. Read the information at the top of the page, then scroll down to see information about each domain.**
+**Update (May 30th, 11PM): Two more domains (A10 and B12) will be expanding by 2 seats each shortly.<br><br>Update (May 27th, 10PM): One new domain (A17) will be added, and three domains (A09, A16, and B02) will be expanded, for a total of 10 added seats.<br><br>Welcome! 👋 This page was just updated for Fall 2024. Read the information at the top of the page, then scroll down to see information about each domain.**
 
 <!-- > **All times listed below are for Fall 2024. To see the Winter 2024 section schedule, check [this spreadsheet](https://docs.google.com/spreadsheets/d/1dCjs06QobZ3jrMBFIMeHYuqXDpGZHLZAxYUnraVQtNI/edit#gid=0).**<br><br>**This page will no longer be updated. See the [course homepage](https://dsc-capstone.org) and [Ed](https://edstem.org/us/courses/48541/discussion/) for future announcements.** -->
 

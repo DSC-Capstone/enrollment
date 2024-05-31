@@ -23,6 +23,6 @@ oldstudent: nan
 prerequisites: None
 time: Friday 10:30-11:30AM, Zoom
 style: We will suggest project ideas and guide students through the steps required to complete them. We will adapt our level of involvement based on the individual needs of each student.
-seats: 10 (recently expanded)
+seats: 10
 tag: Fairness and Causal Inference
 ---

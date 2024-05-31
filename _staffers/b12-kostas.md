@@ -25,6 +25,6 @@ oldstudent: https://spencerrazor.github.io/walking-gcn/
 prerequisites: Students will be most successful if they have experience with deep learning, graph algorithms/ML, data analysis techniques. Students will also benefit if they have a background or interest in chip/circuit design.
 time: Monday 1-2PM, In-Person
 style: Mentor team will be hands on, available for discussion outside of class and office hours. We will bring guest speakers/advisors as relevant.
-seats: 8
+seats: 10
 tag: Applied Data Science
 ---
