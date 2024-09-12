@@ -1,7 +1,7 @@
 ---
 dual: True
 name1: Hungjen Wang
-email1: With questions for industry partners, email Suraj
+email1: With questions for industry partners, email Umesh
 website1: https://www.linkedin.com/in/hungjen-wang-7285b95
 photo1: assets/images/hungjen.jpeg
 
