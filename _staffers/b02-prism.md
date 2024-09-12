@@ -3,7 +3,7 @@ dual: True
 trio: True
 
 name1: Brian Duke
-email1: With questions for industry partners, email Suraj
+email1: With questions for industry partners, email Umesh
 website1: www.prismdata.com
 photo1: assets/images/brian-duke.jpeg
 
