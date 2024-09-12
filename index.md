@@ -62,7 +62,7 @@ Note that since DSC 180A and DSC 180B are both 4-unit courses, you should expect
 
 ### Who is overseeing the capstone?
 
-With any questions about the capstone sequence itself, feel free to email Suraj Rampure (rampure@ucsd.edu) for now. Suraj is leaving UCSD but a new capstone coordinator has yet to be identified; once it's clear who will be in charge of the capstone moving forward, this page will update with their contact information.
+With any questions about the capstone sequence itself, feel free to email Umesh Bellur (ubellur@ucsd.edu) for now. 
 
 With any questions about the content of a particular domain, contact the mentor. With any questions about enrollment, please contact Student Affairs in the VAC.
 
