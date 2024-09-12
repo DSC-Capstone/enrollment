@@ -10,7 +10,7 @@ description: "The project will build upon earlier work on GymCoin and Goodwill c
 summer: 
 oldstudent: https://ylsphere.github.io/ethstates_project_website/
 prerequisites: None
-time: TBD (Schedule with mentor), In-Person
+time: Wednesday 10AM-11AM, In-Person
 style: Mostly as a listener to the students.
 seats: 4
 tag: Applied Data Science
