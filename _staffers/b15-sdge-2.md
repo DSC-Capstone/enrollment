@@ -4,7 +4,7 @@ trio: True
 industry: SDG&E
 
 name1: Ari Gaffen
-email1: With questions for industry partners, email Suraj
+email1: With questions for industry partners, email Umesh
 photo1: assets/images/ari.jpeg
 website1: https://www.linkedin.com/in/arigaffen/
 
