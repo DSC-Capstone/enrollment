@@ -1,7 +1,7 @@
 ---
 dual: True
 name1: Emily Ramond
-email1: With questions for industry partners, email Suraj
+email1: With questions for industry partners, email Umesh
 photo1: assets/images/emily-ramond.png
 website1: https://www.linkedin.com/in/emily-ramond/
 
