@@ -1,6 +1,6 @@
 ---
 name: Lindsey Kostas
-email: With questions for industry partners, email Suraj
+email: With questions for industry partners, email Umesh
 photo: assets/images/lindsey-kostas.jpeg
 website: https://www.linkedin.com/in/lindsey-kostas-a95115105/
 domain: B12
