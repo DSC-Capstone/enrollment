@@ -1,6 +1,6 @@
 ---
 name: Sheffield Nolan
-email: With questions for industry mentors, email Suraj
+email: With questions for industry mentors, email Umesh
 photo: assets/images/sheffield-nolan.jpeg
 website: https://www.linkedin.com/in/sheffieldnolan/
 domain: B16
