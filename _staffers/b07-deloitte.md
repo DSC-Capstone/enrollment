@@ -3,7 +3,7 @@ dual: True
 trio: True
 
 name1: Nimu Sidhu
-email1: With questions for industry partners, email Suraj
+email1: With questions for industry partners, email Umesh
 website1: https://www.linkedin.com/in/gurnimrat-sidhu/
 photo1: assets/images/nimu.jpeg
 
