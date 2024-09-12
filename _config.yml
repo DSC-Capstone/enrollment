@@ -18,7 +18,7 @@ description: DSC Capstone, 2024-25 @ UC San Diego
 tagline: Course website for the 2024-25 offering of the data science capstone sequence at UC San Diego.
 baseurl: '/enrollment' # the subpath of your site, e.g. /blog
 url: 'https://dsc-capstone.org' # the base hostname & protocol for your site, e.g. http://example.com
-author: Suraj Rampure
+author: Umesh Bellur
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 exclude: [vendor] 
 
