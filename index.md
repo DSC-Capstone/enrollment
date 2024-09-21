@@ -6,6 +6,9 @@ nav_order: 1
 ---
 
 {: .success }
+[Home page for the Course Web Page for the 2024-25 Edition](https://dsc-capstone.org/2024-25)
+
+{: .success }
 ** Read the information at the top of the page, then scroll down to see information about each domain. **
 
 <!-- > **All times listed below are for Fall 2024. To see the Winter 2024 section schedule, check [this spreadsheet](https://docs.google.com/spreadsheets/d/1dCjs06QobZ3jrMBFIMeHYuqXDpGZHLZAxYUnraVQtNI/edit#gid=0).**<br><br>**This page will no longer be updated. See the [course homepage](https://dsc-capstone.org) and [Ed](https://edstem.org/us/courses/48541/discussion/) for future announcements.** -->
