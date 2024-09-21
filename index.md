@@ -23,8 +23,6 @@ At a high level, here’s how the capstone program is organized:
 - In Quarter 1 (DSC 180A), you gain background information in your mentor’s domain, by means of replicating a known result. By the end of Quarter 1, you will have completed a replication project (known as the “Quarter 1 Project”) and will have a proposal for a more independent project (known as the “Quarter 2 Project”, or the capstone project).
 - In Quarter 2 (DSC 180B), you execute the Quarter 2 Project you proposed at the end of Quarter 1.
 
-You can see the syllabus for last year's capstone offering [**here**](https://dsc-capstone.org/2023-24/syllabus).
-
 ## Enrollment
 
 First pass for enrollment will begin on Friday, May 24th. The available domains are **not** listed on the Schedule of Classes; instead, they are detailed [**below**](#toc). Most domains are run by UCSD faculty, but some are run by industry partners (denoted with an <span class="badge-industry">Industry Partner</span> badge).
