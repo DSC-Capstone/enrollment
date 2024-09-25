@@ -15,7 +15,8 @@ Domain 2: Evaluation and Attack on LLM watermarks.   Watermarking is a promising
 summer: "Working on the above prerequisites. Reading papers. Watching my recorded lectures."
 oldstudent: nan
 prerequisites: Knowing statistics and optimization theory will help with reading technical papers from my group.  For projects that involves coding and experimentation,  it is important for the student to have taken a first course in data structures and algorithms. 
-time: Friday Morning, In-Person
+time: Monday 3pm-4pm, In-Person, 355 HDSI
+ta: Shriniwas Kulkarni
 style: Each project will have a PhD student mentor assigned who will offer additional office hours each week.   Students will be able to reach the faculty and graduate student mentors on Slack too.    To make the weekly session effective, students are expected to devote time to complete independent work each week.
 seats: 6
 tag: Theoretical Foundations
