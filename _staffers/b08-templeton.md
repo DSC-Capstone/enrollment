@@ -23,6 +23,7 @@ summer: "LangChain, PyTorch"
 oldstudent: nan
 prerequisites: Advanced programming skills
 time: Friday 10-11AM, Zoom
+ta: Teresa Lee
 style: We will form a small team and laser focus on a well defined problem to solve. 
 seats: 6
 tag: Language Models
