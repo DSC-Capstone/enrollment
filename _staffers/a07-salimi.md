@@ -10,7 +10,8 @@ description: "In the rapidly evolving field of artificial intelligence, the inte
 summer: "https://docs.google.com/document/d/1YaPLOHUX2X84MzaWfT4y0P4Jg3-ksCMa5qB3RuYl1io/edit"
 oldstudent: https://alecpanattoni.github.io/
 prerequisites:  Machine learning, scalable analytics, probability, inference
-time: Friday 3-4PM, Hybrid
+time: Friday 3-4PM, Hybrid, 355 HDSI
+ta: Shriniwas Kulkarni
 style: "As your mentor, I'll guide you through the basics and help you understand the relevant material, creating a solid foundation for your projects. While I’ll provide close support and clear explanations of complex concepts, you'll have the opportunity to take the lead on your project, making key decisions and steering its direction."
 seats: 6
 tag: Fairness and Causal Inference
