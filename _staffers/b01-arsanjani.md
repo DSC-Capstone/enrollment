@@ -10,7 +10,8 @@ description: "<i>Generative AI for Good</i> refers to the application of generat
 summer: "Learn NLP, especially with large language models from Google using Google AI Studio."
 oldstudent: https://seanjiang-0416.github.io/DSC-180B-website/
 prerequisites: NLP
-time: Thursday 3:30-5PM, In-Person
+time: Thursday 3:30-5PM, In-Person, 138 HDSI
+ta: Amitash Nanda
 style: As a formal course, and in teams
 seats: 8
 tag: Language Models
