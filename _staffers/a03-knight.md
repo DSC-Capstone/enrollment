@@ -10,7 +10,8 @@ description: "Did you know that more than half the cells in your body are bacter
 summer: "Most recent projects have used PyTorch so familiarity with that is a good idea. My TED talk, although it pre-dates our use of AI, gives a sense of what we do and what the key questions are. https://www.ted.com/talks/rob_knight_how_our_microbes_make_us_who_we_are?language=en"
 oldstudent: https://jareddishman.github.io/dsc-capstone-q2/
 prerequisites: None
-time: Wednesday 3-4PM, In-Person
+time: Wednesday 3-4PM, In-Person, 355 HDSI
+ta: Aritra Das
 style: Class will be assisted by graduate students and/or research staff in my lab who are experts in the domain and/or deep learning techniques to be applied. The first few weeks will be spent assessing what techniques this year's students are most excited about learning or applying, and refining a specific application area (e.g. a particular algorithm or disease or both). More independence typically leads to a more interesting project, but given the state of the field the ability to replicate results from a cutting edge paper and apply it to a new dataset that we have access to is perfectly acceptable. Prior knowledge of the microbiome, or even biology, is not expected - the goal is to learn something new!
 seats: 8
 tag: Bio
