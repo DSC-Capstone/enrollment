@@ -51,6 +51,7 @@ prerequisites: "1. NLP background (required)<br>
 
 As part of summer tasks, students can shore up on these skills."
 time: Tuesday 12-1PM, Zoom
+ta: Teresa Lee
 style: Casual, engaging, fun
 seats: 8
 tag: Language Models
