@@ -10,7 +10,8 @@ description: "Machine Learning Acceleration using Hardware such as FPGA refers t
 summer: 
 oldstudent: https://louiecai.com/DSC-180B-Hardware-Acceleration/
 prerequisites: None
-time: Wednesday 11AM-12PM, In-Person
+time: Wednesday 11AM-12PM, In-Person, 405 HDSI
+ta: Zimo Wang
 style: Mostly as a listener to the students.
 seats: 4
 tag: Applied Data Science
