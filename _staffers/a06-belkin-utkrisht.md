@@ -28,7 +28,8 @@ https://www.cell.com/iscience/pdf/S2589-0042(23)00308-5.pdf
 Familiarity with PyTorch, Tensorflow, Pandas, Networkx, Deep Graph Library"
 oldstudent: nan
 prerequisites: "Background in Genomics (basic), background in Neural Networks (training small feedforward networks/MLP)"
-time: Monday Evening, Hybrid
+time: Thursday, 10am-11am, Hybrid, 336 HDSI
+ta: Aritra Das
 style: "For the first quarter, we will meet as one group to gain familiarity and confidence with the main concepts of precision Graph Neural Networks and its application to Genomics. For the second quarter, we will split into smaller groups which will independently build on top of the concepts developed in the first quarter. At the end of Quarter 1, we expect having a paper to be published in Re:Science. Students will work on publicly available datasets and will be doing all the analysis on their own. GitHub will be used as the primary channel to report results and progress. Students will be expected to know basic concepts of neural networks, such as how back-propagation works, how to change meta-parameters such as learning rate, etc. Students are not required to understand in details how Graph Neural Networks work, as will save time to study this topic in Quarter 1.
 
 At the end of Quarter 1, we expect having a paper to be published in Re:Science.
