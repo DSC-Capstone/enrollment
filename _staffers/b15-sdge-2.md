@@ -28,7 +28,8 @@ description: "In partnership with SDG&E's Clean Transportation Team, students wi
 summer:
 oldstudent: https://jcheung4.github.io/DSC180B-Website/
 prerequisites: None
-time: Monday 2pm-3pm, Hybrid
+time: Monday 2pm-3pm, Hybrid, SDGandE
+ta: Teresa Lee
 style: "The student group will be a stand-alone unit at SDG&E led by Mentors. Mentors will first work with students to understand utility space, and then schedule time with other SDG&E staff who will provide tours, field visits, and other utility-specific training. Students will also be introduced to other data scientists and engineers at SDG&E who are available for support on an as-needed basis throughout the duration of the project. However, once an introduction is made, it will be up to the students to reach out to staff when support is needed. Students will be encouraged to present their ideas by staff members beyond the mentors."
 seats: 8
 tag: Applied Data Science
