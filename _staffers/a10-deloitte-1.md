@@ -28,6 +28,7 @@ Proficient in python (review DSC80 work - missingness, EDA, hyperparameter tunin
 oldstudent: https://michael-garciaperez.github.io/DSC180B-Capstone-Project/
 prerequisites: None
 time: Tuesday 2-3PM, Zoom
+ta: Shriniwas Kulkarni
 style: "Q1 will be held in a typical classroom format. Everyone shows up to class and participates. Each student will need to present once on a reading (5 min presentation). We will have frequent class discussions and the replication project will be two groups of 5. We may have guest lecturers. 
 
 Q2 is much more independent. We will hold one hour meets for EACH group (up to 4 people per group) once a week to check in on progress. Occasionally, we will have additional office hours as needed. You will be completing a project start to finish - from picking domain and gathering data to creating a report and website to present. We cannot guarantee we have knowledge in the domain - so be prepared to do research. We will be on Discord and present throughout the entire process."
