@@ -27,7 +27,8 @@ https://arxiv.org/abs/2207.09640
 NeurIPS 2022"
 oldstudent: nan
 prerequisites: Optimization will be fundamental to this capstone project. It is *highly recommended* to take an undergraduate-level optimization course in the Fall quarter, e.g., ECE 174 Intro/Linear&Nonlinear Optimization or  MATH 173A Optimization/Data Science I
-time: Friday 1-2PM, In-Person
+time: Friday 1-2PM, In-Person, 336 HDSI
+ta: Zimo Wang
 style: Students will be expected to use Python/PyTorch to implement their algorithms (and should be able to code).
 seats: 4
 tag: Theoretical Foundations
