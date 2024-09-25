@@ -15,7 +15,8 @@ summer: "
 <li>Try out the xarray Python library for working with climate data: <a href='https://docs.xarray.dev/en/stable/'>https://docs.xarray.dev/en/stable/</a></li></ul>"
 oldstudent: nan
 prerequisites: DSC 140A
-time: Wednesday 2-3PM, In-Person
+time: Wednesday 2-3PM, In-Person, 336 HDSI
+ta: Teresa Lee
 style: This work is central to my research interests and will be integrated into my broader group program to the extent the students want to engage with it. The students will be welcome to join my group meetings (typically held at Scripps Institution of Oceanography).
 seats: 6
 tag: Applied Data Science
