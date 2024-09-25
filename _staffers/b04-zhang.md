@@ -14,7 +14,8 @@ In this project, we'll explore three relevant areas to LLMs:<br>
 summer: "Reading LLM papers, get familiar with tools like huggingface, pytorch, FSDP, Megatron-LM, Deepspeed."
 oldstudent: https://weiyueli7.github.io/SON/
 prerequisites: DSC102, DSC 140A
-time: Monday or Wednesday Afternoon, In-Person
+time: Monday 3pm-4pm, In-Person, 138 HDSI
+ta: Zimo Wang
 style: I am hands-off. I will ask my students to help on some coding details.
 seats: 6
 tag: Language Models
