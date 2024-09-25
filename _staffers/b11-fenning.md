@@ -10,7 +10,8 @@ description: "Perovskite solar cells are an emerging technology that holds promi
 summer: "nan"
 oldstudent: https://lsidarto.github.io/perovskite-graph-database/
 prerequisites: None
-time: Thursday 2-3PM, In-Person
+time: Thursday 2-3PM, In-Person, 355 HDSI
+ta: Amitash Nanda
 style: Inclusion of PhD students in the meetings working in the materials science domain and a staff research associate working on coding scripts for experiments and ML on our database. The discussions will be cross-disciplinary with all of us learning together to solve new problems. 
 seats: 4
 tag: Applied Data Science
