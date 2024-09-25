@@ -28,7 +28,8 @@ https://arxiv.org/abs/2210.17323
 To be able to obtain really nice experimental results, you'll need to pick up PyTorch and work with the ImageNet dataset. "
 oldstudent: https://dsc180-b11-2.github.io/layout-grounded-optimization/
 prerequisites: Being comfortable with probability and linear algebra (or willingness to catch up quickly) would be very helpful, as would be a basic familiarity with neural networks. 
-time: Monday 2-3PM, In-Person
+time: Monday 2-3PM, In-Person, 355 HDSI
+ta: Amitash Nanda
 style: We both are relatively hands-on in the sense that we make ourselves available for problem-solving and discussions. That said, students have to be self-motivated, and motivated to do the readings and the work.
 seats: 8
 tag: Theoretical Foundations
