@@ -10,7 +10,8 @@ description: "This group is for students interested in Human-Computer Interactio
 summer: "Learn Django and React."
 oldstudent: https://nahmann.github.io/DSC180-B16/
 prerequisites: DSC 102
-time: Monday Afternoon, In-Person
+time: Thursday 4pm-5pm, In-Person, 437 HDSI
+ta: Teresa Lee
 style: Weekly meetings. I will offer pointers and feedback. 
 seats: 6
 tag: Applied Data Science
