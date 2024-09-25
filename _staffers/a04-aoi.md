@@ -11,7 +11,8 @@ summer: "Please read Chris Bishop's Pattern Recognition and Machine learning. Sp
 Chapter 2, especially section 3 and the summary table on page 93, Chapter 3, Chapter 12, Chapter 10, and Chapter 6"
 oldstudent: https://shwyu.github.io/DSC180-A07-Website/
 prerequisites: Probabilistic modeling, optimization, and linear algebra.
-time: Tuesday 10-11AM, In-Person
+time: Tuesday 10-11AM, In-Person, 355 HDSI
+ta: Aritra Das
 style: I'll provide a great deal of context, coaching, and direction for the project but my capstone students will need to spend time figuring things out for them selves. We'll start out slow with exercises and "home works" that will be challenging but will prepare students with the requisite skills and to think critically about their work and take on challenges as they come.
 seats: 6
 tag: Bio
