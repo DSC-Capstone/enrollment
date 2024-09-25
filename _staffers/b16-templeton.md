@@ -11,6 +11,7 @@ summer:
 oldstudent: https://wenyuanchen1326.github.io/BlockBazaar/
 prerequisites: None
 time: Wednesday 2-3PM, Zoom
+ta: Aritra Das
 style: 
 seats: 8
 tag: Applied Data Science
