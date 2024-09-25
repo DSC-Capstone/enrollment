@@ -10,7 +10,8 @@ description: "A central topic in Large Language Model (LLM) research is to enhan
 summer: "[1] https://arxiv.org/abs/2404.05221; [2] https://arxiv.org/abs/2305.14992"
 oldstudent: https://sssssimonk.github.io/agent_village/
 prerequisites: Large language models; open-source tools such as huggingface
-time: Tuesday 3-4PM, In-Person
+time: Tuesday 3-4PM, In-Person, 355 HDSI
+ta: Zimo Wang
 style: Students can either join the mentor's research group to work closely with PhD students/postdocs on relevant projects, or propose their own ideas and lead the projects. Students are expected to be independent, and mentor will provide necessary advices if needed (PhD students/postdocs can also provide more hands-on guidances). 
 seats: 6
 tag: Language Models
