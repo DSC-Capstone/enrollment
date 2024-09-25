@@ -14,7 +14,7 @@ Privacy concerns regarding genomic data: https://www.nature.com/articles/s41576-
 Genetic effects on gene expression: https://pubmed.ncbi.nlm.nih.gov/32913098/"
 oldstudent: https://antonbeliakovucsd.github.io/Capstone/
 prerequisites: "Bioinformatics, gene expression (RNA-seq) data, genotyping data, computational biology, genomics"
-time: Wednesday 11AM-12PM, In-Person
+time: Wednesday 11AM-12PM, In-Person, HDSI 437
 style: I run the capstone independently, without help from grad students or postdocs in my own lab. I like to meet with everyone simultaneously and lead discussion sections each week about the papers/data we are looking at and analyses students are doing. I am hands on in the sense that the weekly tasks are predetermined rather than being abstract; this changes in the second quarter where students will follow their own research plan (with my input and guidance).
 seats: 8
 tag: Bio
