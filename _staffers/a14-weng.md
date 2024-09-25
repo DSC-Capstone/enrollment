@@ -25,6 +25,7 @@ Required reproduced results before 1st class in Fall 24:
 oldstudent: https://yongceli.github.io/SNIP/
 prerequisites: DSC 140A, DSC 140B, DSC 190 Trustworthy Machine Learning, CSE 151A, CSE 151B, CSE 150A, CSE 150B, CSE 152A, CSE 152B, CSE 156
 time: Monday 4-5PM, Zoom
+ta: Shriniwas Kulkarni
 style: This project will be purely research-oriented and heavier than the usual course project. Students are expected to lead their capstone project under Prof. Weng's guidance. Students who have successfully completed DSC 140B, and familiar with deep learning algorithms in computer vision or natural language processing, and deep learning libraries (e.g. pytorch) and neural networks are more likely to succeed in this project. 
 seats: 6
 tag: Theoretical Foundations
