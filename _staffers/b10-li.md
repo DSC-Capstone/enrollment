@@ -28,7 +28,8 @@ Nachman Undergraduate Thesis: https://drive.google.com/file/d/1oF8oiGke5SCVbKTbb
 Majorana Demonstrator Experiment: https://phys.org/news/2023-02-legacy-majorana.html<br>"
 oldstudent: nan
 prerequisites: None
-time: Monday 3-4PM, In-Person
+time: Monday 3-4PM, In-Person, 336 HDSI
+ta: Amitash Nanda
 style: To achieve our final analysis goal—the detector spectrum—students will need to construct and train 3-5 machine learning models using a fully labeled dataset. One of these models will address a regression task, while the others will tackle binary classification, using 0/1 labels. An Analysis Coordinator (AC) will oversee the entire model-building process and document everything in a unified analysis document. Within the project, we will form subgroups; each will select a machine learning task, propose a model to accomplish it, and provide weekly updates during meetings to track progress. The AC and I will engage with each student weekly to discuss their tasks and provide feedback on their updates. Additionally, students will receive detailed assistance from the AC on coding and technical aspects, whereas I will focus on providing in-depth guidance to the AC.
 seats: 6
 tag: Applied Data Science
