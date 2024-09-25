@@ -10,7 +10,8 @@ description: "How do you quantize the trained weights of a neural network to get
 summer: "Look up quantization in deep learning"
 oldstudent: https://xianyingkong.github.io/diffusion-text-generation/
 prerequisites: Some course on Machine Learning 
-time: Tuesday 11AM-12PM, In-Person
+time: Tuesday 11AM-12PM, In-Person, 336 HDSI
+ta: Zimo Wang
 style: Plan to involve my PhD students/postdocs this time
 seats: 6
 tag: Language Models
