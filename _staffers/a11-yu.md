@@ -24,7 +24,8 @@ https://arxiv.org/abs/2305.04392<br>
 https://arxiv.org/abs/2402.18846<br>"
 oldstudent: https://dsc-capstone.org/projects-2021-2022/#project_52
 prerequisites: CSE 151B/251B
-time: Tuesday or Thursday Afternoon, Zoom
+time: Thursday 2-3pm, Zoom
+ta: Zimo Wang
 style: Postdocs and PhD students will help mentor
 seats: 6
 tag: Theoretical Foundations
