@@ -11,6 +11,7 @@ summer: "Some frontend experiences + ChatGPT use experience. "
 oldstudent: https://whatnext.live/
 prerequisites: DSC 148 required. NLP courses recommended. 
 time: Wednesday 11AM-12PM, Zoom
+ta: Teresa Lee
 style: Just me + capstone students. Brainstorming + advice. 
 seats: 4
 tag: Language Models
