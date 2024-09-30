@@ -21,7 +21,7 @@ description: "Students will learn some state of the art algorithms to deal with 
 # <li>Get familiar with OpenAI API and ollama (https://ollama.com/) for self-hosted open-source LLMs (which uses OpenAI API schema)</li></ul><br>"
 # oldstudent: https://dsc180b.lojot.com/
 # prerequisites: Base data science prereqs are sufficient (we won't dive deep into foundations of LLMs or causal inference). We will be talking and listening to people (especially strangers) and serving as their ad-hoc consultants. Skills in consulting, volunteering, tabling for student orgs, etc. are not required, but will be useful -- and you will build those skills if you do not have them.
-time: Tuesday Morning, Zoom
+time: Tuesdays 11am-12pm, Zoom
 ta: Zimo Wang
 # style: I will be the point of contact and there every week, but may bring in collaborators and my grad student advisees. I intentionally do not run a "lab", but I do have a "constellation of collaboration." Students can choose their own particular context in which LLMs are deployed and which kinds of community members / impacted people they want to consult.
 seats: 4
