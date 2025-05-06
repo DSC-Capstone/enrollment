@@ -4,7 +4,7 @@ email: sgeiger@ucsd.edu
 photo:
 website: https://stuartgeiger.com
 domain: A18
-title: Community-Centered Discrimination Audits of LLMs: Bias Rapid Action Teams
+title: Community-Centered Discrimination Audits of LLMs - Bias Rapid Action Teams
 bio: |
   I’m a social scientist with a background in the humanities, especially history and philosophy of science and technology, but I have enough expertise in computer science and data science to make trouble. I believe that data science systems should be fair, transparent, and accountable to the public, but that most are currently not. A lot of my research is in community-centered content moderation NLP systems for user-generated content, especially Wikipedia, where I formerly worked on their ML models and systems.
 description: |
@@ -15,7 +15,7 @@ summer: |
   A recent example of a perturbation-based audit study:  
   - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0318500
 
-  For more readings, see:  
+  For more readings, see  
   - https://auditlab.stuartgeiger.com
 
   Take UCSD/CITI IRB Human Subject Protection Training online course (Social and Behavioral Basic), must complete by week 3 of Fall, but good to do it earlier. Register at citiprogram.org and see this video for how to register:  
