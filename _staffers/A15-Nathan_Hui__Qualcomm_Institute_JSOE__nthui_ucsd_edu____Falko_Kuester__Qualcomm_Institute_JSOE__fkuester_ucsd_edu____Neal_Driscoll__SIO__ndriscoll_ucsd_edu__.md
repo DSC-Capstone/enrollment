@@ -2,7 +2,7 @@
 name: "Nathan Hui (Qualcomm Institute/JSOE <nthui@ucsd.edu>), Falko Kuester (Qualcomm Institute/JSOE <fkuester@ucsd.edu>), Neal Driscoll (SIO <ndriscoll@ucsd.edu>)"
 email: "nthui@ucsd.edu, fkuester@ucsd.edu, ndriscoll@ucsd.edu"
 photo: 
-website: "https://alertcalifornia.org; https://www.linkedin.com/in/ntlhui/; https://chei.ucsd.edu/team/fkuester/; https://ndriscoll.scrippsprofiles.ucsd.edu/links/"
+website: "https://alertcalifornia.org, https://www.linkedin.com/in/ntlhui/, https://chei.ucsd.edu/team/fkuester/, https://ndriscoll.scrippsprofiles.ucsd.edu/links/"
 domain: A16
 title: ALERTCalifornia: Extreme Events Detection
 bio: |
