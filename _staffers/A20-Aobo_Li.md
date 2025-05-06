@@ -4,7 +4,7 @@ email: aol002@ucsd.edu
 photo:
 website: https://aobol.github.io/AoboLi/
 domain: A20
-title: Hunting for Ghost Particles: Analyzing Time Series Data produced by Semiconductor Detectors
+title: Hunting for Ghost Particles -  Analyzing Time Series Data produced by Semiconductor Detectors
 bio: |
   I am Aobo Li (you can call me obo, like the musical instrument). I am a new faculty at HDSI & the Department of Physics. I earned my B.S. from UW Seattle and my PhD from Boston University, both in the field of physics. My research uses machine learning to squeeze out the maximum amount of information from ultra-sensitive radiation detectors, all in the quest to uncover extremely rare physics events in our universe.
 description: |
