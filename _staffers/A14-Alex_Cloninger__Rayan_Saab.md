@@ -3,7 +3,7 @@ name: Alex Cloninger, Rayan Saab
 email: acloninger@ucsd.edu, rsaab@ucsd.edu
 photo: 
 website: https://ccom.ucsd.edu/~acloninger/index.html, http://www.math.ucsd.edu/~rsaab/
-domain: A14
+domain: A14-1
 title: Analysis of Temporally Varying Point Cloud using Optimal Transport
 bio: |
   Alex Cloninger is an Associate Professor in Mathematics and the Halicioglu Data Science Institute. He works on computational models for learning similarities between data, and using these similarity measures to solve various scientific problems. 
