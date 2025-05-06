@@ -22,6 +22,7 @@ nav_order: 1
 
 Welcome to the capstone program! The capstone program is a two-quarter sequence (Fall 2025 and Winter 2026) in which you will be mentored by a faculty member or industry expert in their domain of expertise. By the end of Quarter 2, you will design and execute a project from that domain in teams. You can see the projects from last year at [**dsc-capstone.org/showcase-25**](https://dsc-capstone.org/showcase-25).
 
+
 At a high level, here’s how the capstone program is organized:
 - In Quarter 1 (DSC 180A), you gain background information in your mentor’s domain, by means of replicating a known result. By the end of Quarter 1, you will have completed a replication project (known as the “Quarter 1 Project”) and will have a proposal for a more independent project (known as the “Quarter 2 Project”, or the capstone project).
 - In Quarter 2 (DSC 180B), you execute the Quarter 2 Project you proposed at the end of Quarter 1.
