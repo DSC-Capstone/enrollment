@@ -82,34 +82,33 @@ With any questions about the content of a particular domain, contact the mentor.
 
 <a name='toc'>
 
-[**💊 Medicine and Bioinformatics**](#biology)<br>
-[**🤝 Fairness and Causal Inference**](#causal)<br>
+[**⚙️ Applied Data Science**](#app)<br>
+[**🗣️ Language Models**](#llm)<br>
 [**🧠 Theoretical Foundations**](#theory)<br>
-[**🗣️ Language Models**](#language)<br>
-[**⚙️ Applied Data Science**](#applied)<br>
+[** AI/ML Systems**](#sys)<br>
 
 ---
 
-<a name='biology'></a>
+<a name='app'></a>
 
-## 💊 Medicine and Bioinformatics
+## Applied Data Science
 
 <small>(<a href="#toc">back to the outline</a>)</small>
 
-{% assign instructors = site.staffers | where: 'tag', 'Bio' %}
+{% assign instructors = site.staffers | where: 'tag', 'app' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
 
 ---
 
-<a name='causal'></a>
+<a name='llm'></a>
 
-## 🤝 Fairness and Causal Inference
+## Language Models
 
 <small>(<a href="#toc">back to the outline</a>)</small>
 
-{% assign instructors = site.staffers | where: 'tag', 'Fairness and Causal Inference' %}
+{% assign instructors = site.staffers | where: 'tag', 'llm' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
@@ -122,38 +121,26 @@ With any questions about the content of a particular domain, contact the mentor.
 
 <small>(<a href="#toc">back to the outline</a>)</small>
 
-{% assign instructors = site.staffers | where: 'tag', 'Theoretical Foundations' %}
+{% assign instructors = site.staffers | where: 'tag', 'theory' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
 
 ---
 
-<a name='language'></a>
+<a name='sys'></a>
 
-## 🗣️ Language Models
+## AI/ML Systems
 
 <small>(<a href="#toc">back to the outline</a>)</small>
 
-{% assign instructors = site.staffers | where: 'tag', 'Language Models' %}
+{% assign instructors = site.staffers | where: 'tag', 'sys' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
 
 ---
 
-<a name='applied'></a>
-
-## ⚙️ Applied Data Science
-
-<small>(<a href="#toc">back to the outline</a>)</small>
-
-{% assign instructors = site.staffers | where: 'tag', 'Applied Data Science' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
-
----
 
 -->
 
