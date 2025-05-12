@@ -23,7 +23,8 @@ summer: |
   - And if you can, watch the whole series.
   - Reach out to me and I can assign you some tasks depending on your current knowledge and interest.
 time: Any day after 10am, preferably Tuesday to Thursday
-ta: In-person (need room booked for me; required if mentoring >4 students in-person)
+modality: In-person (need room booked for me; required if mentoring >4 students in-person)
+ta: TBD
 style: |
   My students typically work independently, but I am very supportive. I meet with them once a week, but I am open (and happy) to follow up more often. I have experienced undergrads working with me, who can help guide new students. Dr. De Sa, and perhaps her students, will also be involved in mentoring, specifically as it refers to machine learning.
 seats: 6
