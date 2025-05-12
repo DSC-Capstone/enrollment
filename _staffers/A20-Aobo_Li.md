@@ -33,7 +33,8 @@ summer: |
     (Please pay special attention to Section 3: Pulse Shape Parameter Pipeline)  
   - Majorana Demonstrator Experiment: https://phys.org/news/2023-02-legacy-majorana.html
 time: Wednesday 3-4
-ta: Zoom
+modality: Zoom
+ta: TBD
 style: |
   To achieve our final analysis goal—the detector spectrum—students will need to construct and train 3–5 machine learning models using a fully labeled dataset. One of these models will address a regression task, while the others will tackle binary classification, using 0/1 labels.
 
