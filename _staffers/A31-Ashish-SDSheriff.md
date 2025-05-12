@@ -16,7 +16,8 @@ description: |
 summer: |
   https://lao.ca.gov/reports/2019/4023/inmate-classification-050219.pdf
 time: Fridays at 10am
-ta: In-person
+modality: In-person
+ta: TBD
 style: |
   The students will work closely as a team with the mentor and domain experts as needed. They will have access to the resources necessary for successful capstone.
 seats: 4
