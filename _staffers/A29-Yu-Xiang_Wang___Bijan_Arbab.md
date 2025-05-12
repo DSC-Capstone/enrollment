@@ -9,7 +9,8 @@ bio: I am a faculty member of the Halıcıoğlu Data Science Institute at UC San
 description: Differentially private synthetic data generation plays a crucial role in enabling data sharing and analysis while preserving individual privacy. By creating artificial datasets that statistically resemble real data without revealing any specific individual's information, this approach allows organizations to comply with privacy regulations such as GDPR and HIPAA. It fosters innovation and collaboration by making sensitive data accessible to researchers, developers, and analysts without exposing personal details. Furthermore, the use of differential privacy techniques ensures that the risk of re-identifying individuals remains mathematically bounded, providing strong, quantifiable privacy guarantees. This balance between utility and privacy is essential for advancing fields like healthcare, finance, and social science in a responsible and ethical manner.   In this specific project, you will work with me and  HDSI Industry Fellow Dr. Bijan Arbab to 
 summer: Read about differential privacy (see the course I taught in Fall 2024 and the references therein https://cseweb.ucsd.edu/~yuxiangw/classes/DSC291-2024Fall/)
 time: Monday afternoon 4pm (tentative)
-ta: In-person (will book own room)
+modality: In-person (will book own room)
+ta: TBD
 style: Guiding the learning and research of students through weekly meetings with students who lead the projects. 
 seats: 8
 tag: gen
