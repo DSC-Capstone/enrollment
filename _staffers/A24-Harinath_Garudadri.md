@@ -18,7 +18,8 @@ summer: |
   - PyTorch  
   - NLTK
 time: 4 to 5 PM, weekdays and Weekends
-ta: In-person (need room booked for me; required if mentoring >4 students in-person)
+modality: In-person (need room booked for me; required if mentoring >4 students in-person)
+ta: TBD
 style: |
   I am assuming Capstones at HDSI may be different from the ones in ECE. I will have weekly presentations by a selected student and will count to grading.
 seats: 6
