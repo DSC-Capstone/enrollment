@@ -22,7 +22,8 @@ description: |
 summer: |
   Students should be able to utilize Nautilus NRP, be familiar with active learning techniques, semi-supervised or unsupervised learning, and utilizing web APIs. We expect most work to be done in Python. Please also be familiar with Docker, Poetry, Kubernetes, and Tornado.
 time: Mo/Tu/We/Th 10am-3pm
-ta: In-person (will book own room)
+modality: In-person (will book own room)
+ta: TBD
 style: |
   We can facilitate mentorship in our facilities (Atkinson Hall). This will occur as part of our research group (regular meetings), with additional oversight under ALERTCalifornia (milestone updates).
 seats: 4
