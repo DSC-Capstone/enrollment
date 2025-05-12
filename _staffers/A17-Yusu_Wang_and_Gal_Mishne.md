@@ -16,7 +16,8 @@ summer: |
   - https://arxiv.org/abs/2205.12454  
   - https://arxiv.org/abs/2302.04181
 time: Wed morning 9am preferred
-ta: In-person (need room booked for me; required if mentoring >4 students in-person)
+modality: In-person (need room booked for me; required if mentoring >4 students in-person)
+ta: TBD
 style: |
   In the first few weeks we will give some "lectures" on the background, together with reading / experimenting materials. Usually students form groups of around 3 students each to develop the capstone projects.
 seats: 16
