@@ -12,7 +12,8 @@ description: |
 summer: |
   Read relevant papers that appeared in recent STOC/FOCS conference
 time: Early morning on Friday
-ta: Zoom
+modality: Zoom
+ta: TBD
 style: |
   The students would need to be independent.
 seats: 4
