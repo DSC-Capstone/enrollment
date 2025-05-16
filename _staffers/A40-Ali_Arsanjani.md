@@ -15,5 +15,5 @@ ta: TBA
 modality: Zoom
 style: As a formal course, and in teams
 seats: 8
-tag: Language Models
+tag: gen
 ---
