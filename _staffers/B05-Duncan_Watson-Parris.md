@@ -3,7 +3,7 @@ name: Duncan Watson-Parris
 email: dwatsonparris@ucsd.edu
 photo: 
 website: https://climate-analytics-lab.github.io/
-domain: A10
+domain: B05
 title: Deep Learning for Climate Model Emulation
 bio: |
   Duncan Watson-Parris is an atmospheric physicist working at the interface of climate research and machine learning. The Climate Analytics Lab (CAL) he leads focuses on understanding the interactions between aerosols and clouds, and their representation within global climate models. CAL is leading the development of a variety of machine learning tools and techniques to optimally combine a variety of observational datasets, including global satellite and aircraft measurements, to constrain and improve these models. Duncan is also keen to foster the application of machine learning to climate science questions more broadly and convenes the Machine Learning for Climate Science EGU session and co-convenes the “AI and Climate Science” discovery series that is part of the United Nations’ AI for Good program.
@@ -20,6 +20,6 @@ ta: In-person (need room booked for me; required if mentoring >4 students in-per
 style: |
   This work is central to CAL so I will meet personally with the students, and it can be integrated into the broader research program to the extent the students want to engage with it. The students will be welcome to join our Lab meetings (typically held at Scripps Institution of Oceanography).
 seats: 6
-tag: gen
+tag: app
 ---
 
