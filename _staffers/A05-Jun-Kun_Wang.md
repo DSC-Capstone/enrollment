@@ -27,5 +27,5 @@ time: Fridays at 1PM.
 ta: In-person (need room booked for me; required if mentoring >4 students in-person)
 style: Students will be expected to use Python/PyTorch to implement their algorithms (and should be able to code).
 seats: 4
-tag: gen
+tag: llm
 ---
