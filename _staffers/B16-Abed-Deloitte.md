@@ -5,7 +5,7 @@ photo:
 website:
   - https://www.linkedin.com/in/aelhusseini
   - https://www.linkedin.com/in/balaji-veeramani-9a161b9/
-domain: A30
+domain: B16
 title: Agents of Change - Knowledge Graphs Revolutionizing Life Sciences 🧪🧬
 bio: |
   Abed – Abed is an Applied AI Manager at Deloitte Consulting, specializing in Generative AI applications. Passionate about teaching, he has served as a business case mentor and capstone instructor for HDSI. A proud graduate of The Ohio State University, Abed now lives in Austin, Texas—the live music capital of the world—with his wife and son 🤠🎸. He's an avid runner and a dessert enthusiast, in that order.
@@ -23,5 +23,5 @@ summer: |
   - Biomedical Knowledge Graph: A Survey of Domains, Tasks, and Real-World Applications: https://arxiv.org/pdf/2501.11632  
   - AI Engineering (on building and evaluating agentic solutions): https://www.oreilly.com/library/view/ai-engineering/9781098166298/
 seats: 8
-tag: gen
+tag: app
 ---
