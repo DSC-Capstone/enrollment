@@ -3,7 +3,7 @@ name: Prof. Rob Knight
 email: rknight@ucsd.edu
 photo:
 website: https://knightlab.ucsd.edu/
-domain: A33
+domain: B18
 title: Deep learning for understanding microbiome results
 bio: |
   While researching the origins of life as a postdoc in Boulder, Colorado, I developed algorithms for comparing RNA that turned out to be enabling technologies for the whole microbiome field. I moved to UCSD at the end of 2014 to lead the Center for Microbiome Innovation, and my lab focuses on developing new technologies to read out and understand complex microbial communities in the environment and the human body. I gave a TED talk that has been viewed > 2 million times and wrote two popular books on the microbiome. Outside academia, I like to travel, cook, hike, and paddleboard.
@@ -18,5 +18,5 @@ modality: In person
 style: |
   Capstone group will run as separate, focused entity, with relevant members of lab (grad students, postdocs) providing additional perspective/co-mentorship. Attendance of lab meetings/code reviews for the whole lab is optional.
 seats: 8
-tag: gen
+tag: app
 ---
