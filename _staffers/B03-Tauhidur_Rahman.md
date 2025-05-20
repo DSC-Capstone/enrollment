@@ -3,7 +3,7 @@ name: Tauhidur Rahman
 email: trahman@ucsd.edu
 photo: 
 website: https://mosaic-laboratory.github.io/
-domain: A06
+domain: B03
 title: Digital twin model for health with wearable data
 bio: I direct the Mosaic lab.
 description: |
@@ -24,5 +24,5 @@ ta: Hybrid (Zoom and in-person)
 style: |
   I along with my PhD student will attend the meeting every week. My mentoring style is really to help you to know the right tools, help you to identify the intermediate goals and eventually ask challenging questions. Eventually the success will largely depend on you and your approach to tackle complex questions with lots of uncertainty. I want you to take leadership (almost consider this as an opportunity to write your paper or build your startup, just as an example) and I will be there to help you to navigate the complex landscape of uncertainty in research.
 seats: 8
-tag: gen
+tag: app
 ---
