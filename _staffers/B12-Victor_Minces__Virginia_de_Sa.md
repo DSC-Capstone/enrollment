@@ -1,6 +1,6 @@
 ---
-name: "Victor Minces, Virginia de Sa"
-email: vminces@ucsd.edu
+name: Victor Minces, Virginia de Sa
+email: vminces@ucsd.edu, desa@ucsd.edu
 photo:
 website:
   - http://www.listeningtowaves.com
