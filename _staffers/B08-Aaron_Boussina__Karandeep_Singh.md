@@ -3,7 +3,7 @@ name: "Aaron Boussina; Karandeep Singh"
 email: "aboussina@health.ucsd.edu; karandeep@health.ucsd.edu"
 photo:
 website: https://healthinnovation.ucsd.edu/
-domain: A16
+domain: B08
 title: Large Language Models in Healthcare
 bio: |
   Karandeep is a physician-scientist with expertise in the evaluation and implementation of statistical and machine learning models into the clinical and operational context. His research lab’s focus is on understanding translational issues of bringing AI into clinical practice, including transportability and generalizability issues, dataset shift, and clinical and operational outcomes. He serves as Chief Health AI Officer for the UC San Diego Health System and has a leadership role in the Jacobs Center for Health Innovation. He has >90 peer-reviewed publications focused primarily on machine learning, digital health, and natural language processing.
@@ -28,5 +28,5 @@ ta: Zoom
 style: |
   Capstone students will be integrated into the Jacobs Center for Health Innovation (JCHI) research group and will lead an independent project. Students will be expected to manage their projects, develop their software, test their hypotheses, and submit a peer-reviewed paper by the end of the course (with mentorship).
 seats: 6
-tag: gen
+tag: app
 ---
