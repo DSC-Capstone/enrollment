@@ -12,6 +12,6 @@ time: Tuesday afternoon
 ta: In-person (need room booked for me; required if mentoring >4 students in-person)
 style: We will have weekly meetings. My phd students will also help the team. The ultimate goal of the research project is to produce a research paper. 
 seats: 10
-tag: gen
+tag: app
 
 ---
