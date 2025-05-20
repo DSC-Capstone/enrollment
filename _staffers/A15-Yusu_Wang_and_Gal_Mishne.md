@@ -5,7 +5,7 @@ photo:
 website:
   - http://yusu.belkin-wang.org/
   - https://mishne.ucsd.edu/
-domain: A17
+domain: A15
 title: Transformers for graph learning
 bio: |
   Yusu Wang: geometric deep learning, graph learning, neural algorithmic reasoning, topological data analysis  
@@ -21,5 +21,5 @@ ta: TBD
 style: |
   In the first few weeks we will give some "lectures" on the background, together with reading / experimenting materials. Usually students form groups of around 3 students each to develop the capstone projects.
 seats: 16
-tag: gen
+tag: theory
 ---
