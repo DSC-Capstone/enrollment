@@ -3,7 +3,7 @@ name: "Ashish Kakkad, Dave Blackwell, Christopher Lawrence"
 email: "Christopher.Lawrence@sdsheriff.gov; David.Blackwell@sdsheriff.gov; Ashish.Kakkad@sdsheriff.gov"
 photo:
 website: https://www.sdsheriff.gov/home
-domain: A31
+domain: B17
 title: AI-Driven Jail Population Optimization System for San Diego County Sheriff's Office
 bio: |
   Christopher Lawrence began his service with the San Diego County Sheriff's Office as a Deputy Explorer in 1999 and officially joined as a Deputy Sheriff in 2005, serving in various assignments including the Human Trafficking Task Force and Criminal Intelligence Detail. He was promoted to Sergeant in 2016, then to Lieutenant in 2021, taking on leadership roles in multiple units including the Threat Assessment Group and Communications Center. In 2023, he became Captain of the North Coastal Station and later led the Major Crimes Division. By November 2024, he was promoted to Commander, overseeing all seven of the Sheriff's detention facilities. Christopher holds a bachelor’s degree in Criminal Justice Management and is a graduate of several advanced leadership programs; he is also a husband and father of two daughters and a son.
@@ -21,5 +21,5 @@ ta: TBD
 style: |
   The students will work closely as a team with the mentor and domain experts as needed. They will have access to the resources necessary for successful capstone.
 seats: 4
-tag: gen
+tag: app
 ---
