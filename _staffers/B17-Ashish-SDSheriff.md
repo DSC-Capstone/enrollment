@@ -1,6 +1,6 @@
 ---
 name: "Ashish Kakkad, Dave Blackwell, Christopher Lawrence"
-email: "Christopher.Lawrence@sdsheriff.gov; David.Blackwell@sdsheriff.gov; Ashish.Kakkad@sdsheriff.gov"
+email: 
 photo:
 website: https://www.sdsheriff.gov/home
 domain: B17
