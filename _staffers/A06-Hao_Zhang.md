@@ -17,5 +17,5 @@ time: TBD
 ta: Zoom
 style: hands off
 seats: 8
-tag: gen
+tag: llm
 ---
