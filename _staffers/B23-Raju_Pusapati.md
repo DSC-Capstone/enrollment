@@ -1,6 +1,6 @@
 ---
 name: Raju Pusapati PhD, Raghunandha Reddy Burri PhD, Murali Krishnam
-email: raju.pusapati@solix.com, murali.krishnam@solix.com
+email: 
 photo:
 website:
   - https://www.linkedin.com/in/raju-pusapati-7129445/
