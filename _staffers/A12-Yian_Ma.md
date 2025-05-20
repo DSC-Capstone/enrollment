@@ -3,7 +3,7 @@ name: Yian Ma
 email: yianma@ucsd.edu
 photo: 
 website: https://sites.google.com/view/yianma/home
-domain: A37
+domain: A12
 title: Quantifying the credibility of large language model outputs
 bio: I am an assistant professor at the Halıcıoğlu Data Science Institute and an affliated faculty member at the Computer Science and Engineering Department of University of California San Diego. Prior to UCSD, I spent a year as a visiting faculty at Google Research. Before that, I was a post-doctoral fellow at EECS, UC Berkeley. I completed my Ph.D. at University of Washington and obtained my bachelor's degree at Shanghai Jiao Tong University.
 description: |
@@ -18,5 +18,5 @@ ta: TBA
 modality: Zoom
 style: 
 seats: 8
-tag: gen
+tag: llm
 ---
