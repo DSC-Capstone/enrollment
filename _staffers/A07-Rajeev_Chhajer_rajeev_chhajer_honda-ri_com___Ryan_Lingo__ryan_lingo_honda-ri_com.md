@@ -35,6 +35,6 @@ style: |
 
   While we won’t dictate tasks at a granular level, we’ll be present every week and ensure they have the support and structure they need to succeed.
 seats: 12
-tag: gen
+tag: llm
 ---
 
