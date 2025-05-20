@@ -1,6 +1,6 @@
 ---
 name: Brian Duke, Kyle Nero
-email: brian.duke@prismdata.com, kyle.nero@prismdata.com
+email: 
 photo: 
 website: www.prismdata.com
 domain: B01
