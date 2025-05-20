@@ -85,18 +85,19 @@ Filter by subject area:
 
 ---
 
-<a name='app'></a>
+<a name='sys'></a>
 
-## Applied Data Science
+## AI/ML Systems
 
 <small>(<a href="#toc">back to the outline</a>)</small>
 
-{% assign instructors = site.staffers | where: 'tag', 'app' %}
+{% assign instructors = site.staffers | where: 'tag', 'sys' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
 
 ---
+
 
 <a name='llm'></a>
 
@@ -122,15 +123,15 @@ Filter by subject area:
 {{ staffer }}
 {% endfor %}
 
+
 ---
+<a name='app'></a>
 
-<a name='sys'></a>
-
-## AI/ML Systems
+## Applied Data Science
 
 <small>(<a href="#toc">back to the outline</a>)</small>
 
-{% assign instructors = site.staffers | where: 'tag', 'sys' %}
+{% assign instructors = site.staffers | where: 'tag', 'app' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
