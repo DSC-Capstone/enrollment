@@ -3,7 +3,7 @@ name: Shachar Lovett
 email: slovett@ucsd.edu
 photo: 
 website: https://cseweb.ucsd.edu/~slovett
-domain: A08
+domain: A13
 title: Communication Complexity
 bio: I work broadly in theoretical computer science, with a specific interest in computational complexity, randomness and pseudo-randomness, algebraic constructions, optimization, and combinatorics.
 description: |
@@ -24,6 +24,6 @@ time: Mondays 1-2pm
 ta: In-person (will book own room)
 style: Initially the capstone project will run standalone, as students learn the area. Then, depending on their interest, we can potentially join an existing research project or they work on their own research project.
 seats: 4
-tag: gen
+tag: theory
 ---
 
