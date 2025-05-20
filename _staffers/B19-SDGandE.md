@@ -1,6 +1,6 @@
 ---
 name: "Phi Nguyen, Chuck Hahm, Fatemeh Aarabi"
-email: "pnguyen@sdge.com, CHahm@sdge.com, FAarabi@sdge.com"
+email: 
 photo:
 website: https://www.sdge.com
 domain: B19
