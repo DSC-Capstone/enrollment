@@ -73,12 +73,7 @@ With any questions about the content of a particular domain, contact the mentor.
 
 <small>(<a href="#toc">back to the outline</a>)</small>
 
-{% assign instructors = site.staffers | where: 'tag', 'gen' %}
-{% for staffer in instructors %}
-{{ staffer }}
-{% endfor %}
-
-<!--Filter by subject area:
+Filter by subject area:
 
 <a name='toc'>
 
