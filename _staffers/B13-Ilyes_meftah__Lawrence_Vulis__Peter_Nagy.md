@@ -1,6 +1,6 @@
 ---
 name: "Ilyes Meftah, Lawrence Vulis, Peter Nagy"
-email: "imeftah@cotality.com, lvulis@cotality.com, pnagy@cotality.com"
+email: 
 photo:
 website:
   - https://www.cotality.com/
