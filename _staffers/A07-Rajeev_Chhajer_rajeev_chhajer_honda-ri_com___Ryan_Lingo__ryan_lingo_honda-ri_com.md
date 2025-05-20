@@ -1,6 +1,6 @@
 ---
 name: Rajeev Chhajer, Ryan Lingo
-email: rajeev_chhajer@honda-ri.com, ryan_lingo@honda-ri.com
+email: 
 photo: 
 website: https://www.linkedin.com/in/rajeevchhajer/, https://www.linkedin.com/in/ryan-lingo/
 domain: A07
