@@ -3,7 +3,7 @@ name: "Phi Nguyen, Chuck Hahm, Fatemeh Aarabi"
 email: "pnguyen@sdge.com, CHahm@sdge.com, FAarabi@sdge.com"
 photo:
 website: https://www.sdge.com
-domain: A34
+domain: B19
 title: From Data to Dispatch - Optimizing SDG&E Field Services
 bio: |
   Dr. Nguyen graduated from UCSD with a Ph.D. in Materials Science and Engineering, where he developed nanomaterials for clean energy applications. He then worked for several years as a consultant in the energy sector, where his focus was on using data to support policies that promote clean energy and energy efficiency. Dr. Nguyen joined SDG&E to focus on developing models to mitigate wildfire risk in California and has since expanded his work to other areas that benefit San Diego communities.
@@ -22,5 +22,5 @@ ta: TBA
 style: |
   The student group will be a stand-alone unit at SDG&E led by Mentors. Mentors will first work with students to understand utility space, and then schedule time with other SDG&E staff who will provide tours, field visits, and other utility-specific training. Students will also be introduced to other data scientists and engineers at SDG&E who are available for support on an as-needed basis throughout the duration of the project. However, once an introduction is made, it will be up to the students to reach out to staff when support is needed. Students will be encouraged to present their ideas to staff members beyond the mentors.
 seats: 12
-tag: gen
+tag: app
 ---
