@@ -3,7 +3,7 @@ name: Armin Schwartzman
 email: armins@ucsd.edu
 photo:
 website: https://schwartzman.scholar.st/
-domain: A28
+domain: B14
 title: Comparing Maps from Human Brain Imaging
 bio: |
   With an undergraduate degree in electrical engineering, I discovered statistics for my PhD and have been doing data science since then (even when it wasn't called by that name). Much of my work involves signal and image analysis, but I'm interested in many theoretical and applied problems, even philosophical. Outside of academia, I like doing music, dancing, swimming, surfing, and more.
@@ -21,5 +21,5 @@ ta: TBD
 style: |
   Mentoring will involve data science PhD student Gabriel Riegner. Students are expected to take ownership over the project. This implies taking initiative in learning about the topic (from the assigned material and other sources), implementing the methods in code, being resourceful when needing help, and asking questions. Students are expected to put in their best effort, plan their time over the quarter, make substantial progress each week, report on it each week, and come up with an action plan for the next steps (as opposed to waiting for the mentor to give instructions). In other words, be independent and ask for help when needed.
 seats: 8
-tag: gen
+tag: app
 ---
