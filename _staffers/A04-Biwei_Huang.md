@@ -3,7 +3,7 @@ name: Biwei Huang
 email: bih007@ucsd.edu
 photo:
 website: https://biweihuang.com/
-domain: A35
+domain: A04
 title: Causal Copilot
 bio: |
   I am an assistant professor at HDSI. My research focus is causal discovery and causal AI.
@@ -19,5 +19,5 @@ ta: TBA
 style: |
   May involve my PhD students
 seats: 8
-tag: gen
+tag: sys
 ---
