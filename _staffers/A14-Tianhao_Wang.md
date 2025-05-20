@@ -3,7 +3,7 @@ name: Tianhao Wang
 email: tianhaowang@ucsd.edu
 photo: 
 website: https://tianhaowang.ttic.edu/
-domain: A09
+domain: A14
 title: Understanding deep learning through feature learning
 bio: |
   Tianhao Wang will be joining the Halıcıoğlu Data Science Institute at UC San Diego as a tenure-track assistant professor in July 2025.
@@ -17,5 +17,5 @@ time: Friday
 ta: In-person (need room booked for me; required if mentoring >4 students in-person)
 style: Participants should feel free to explore on their own if they find a specific topic interesting. Meanwhile, participants will have opportunities to work with my PhD students. I will provide hands-on guidance.
 seats: 8
-tag: gen
+tag: theory
 ---
