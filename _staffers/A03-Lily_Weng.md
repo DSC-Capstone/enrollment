@@ -3,7 +3,7 @@ name: Lily Weng
 email: lweng@ucsd.edu
 photo:
 website: https://lilywenglab.github.io/
-domain: A26
+domain: A03
 title: Trustworthy Machine Learning
 bio: |
   Lily Weng is an Assistant Professor in the Halıcıoğlu Data Science Institute at UC San Diego with affiliation in the CSE department. Her research interest is in machine learning and deep learning, with primary focus on Trustworthy AI.
@@ -20,5 +20,5 @@ ta: TBD
 style: |
   Students will form teams to conduct research projects. Student teams are expected to lead the research project. Students are expected to be proficient in PyTorch and deep learning libraries, and have experience in setting up deep vision models and open-sourced LLMs.
 seats: 8
-tag: gen
+tag: sys
 ---
