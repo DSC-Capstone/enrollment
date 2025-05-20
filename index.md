@@ -77,10 +77,11 @@ Filter by subject area:
 
 <a name='toc'>
 
-[**⚙️ Applied Data Science**](#app)<br>
+[**AI/ML Systems**](#sys)<br>
 [**🗣️ Language Models**](#llm)<br>
 [**🧠 Theoretical Foundations**](#theory)<br>
-[** AI/ML Systems**](#sys)<br>
+[**⚙️ Applied Data Science**](#app)<br>
+
 
 ---
 
