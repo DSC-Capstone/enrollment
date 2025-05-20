@@ -1,6 +1,6 @@
 ---
 name: "Akash Shah, Lisa Li, Bor-Chau Juang, Pratyush Panda, Victor Calderon"
-email: "akash_shah@intuit.com, lisa_li1@intuit.com, borchau_juang@intuit.com, pratyush_panda@intuit.com, victor_calderon@intuit.com"
+email: 
 photo:
 website: https://www.intuit.com/
 domain: B25
