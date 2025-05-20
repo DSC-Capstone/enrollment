@@ -1,6 +1,6 @@
 ---
 name: "Abed El-Husseini, Balaji Veeramani"
-email: "aelhusseini@deloitte.com, baveeramani@deloitte.com"
+email: 
 photo:
 website:
   - https://www.linkedin.com/in/aelhusseini
