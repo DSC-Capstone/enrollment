@@ -12,6 +12,6 @@ time: Thursday 1-2p
 ta: In-person (need room booked for me; required if mentoring >4 students in-person)
 style: Our group will consist of group projects completed in groups of 3-4. The goal of the course is to eventually build a credit score but we will start by building a transaction categorization model using NLP techniques. Each week we will talk about techniques that can be applied to the next step in the project. We will begin by reviewing homework from the previous week and discussing ideas. Then introduce the next step and talk about what can be done to solve the next step in the problem. The goal is to introduce students to the model development process in most financial services companies.
 seats: 12
-tag: gen
+tag: app
 
 ---
