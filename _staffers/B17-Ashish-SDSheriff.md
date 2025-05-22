@@ -21,5 +21,5 @@ ta: TBD
 style: |
   The students will work closely as a team with the mentor and domain experts as needed. They will have access to the resources necessary for successful capstone.
 seats: 4
-tag: app
+tag: hide
 ---
