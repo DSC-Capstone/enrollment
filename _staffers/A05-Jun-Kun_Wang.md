@@ -3,7 +3,7 @@ name: Jun-Kun Wang
 email: jkw005@ucsd.edu
 photo: 
 website: https://jimwang123.github.io/
-domain: A05
+domain: 
 title: Interplay between Machine Unlearning and Optimization
 bio: I am an assistant professor at HDSI and ECE. My research is centered around optimization and its connections with statistics and machine learning.
 description: |
