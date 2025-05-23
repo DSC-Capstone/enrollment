@@ -3,7 +3,7 @@ name: Zhiting Hu
 email: zhh019@ucsd.edu
 photo: 
 website: https://zhiting.ucsd.edu/
-domain: A08
+domain: 
 title: Large Language (Multi-Modal) Model Reasoners and Agents
 bio: |
   Zhiting Hu is an Assistant Professor in Halicioglu Data Science Institute at UC San Diego. He received his Bachelor's degree in Computer Science from Peking University in 2014, and his Ph.D. in Machine Learning from Carnegie Mellon University in 2020. His research interests lie in the broad area of machine learning and artificial intelligence, with a focus on principles, methodologies, and systems of building AI agents that learn and reason with efficiency and generality. His current work centers on building general world models for next-generation machine reasoning and unified learning mechanisms for training machines with all types of experience. His research was recognized with outstanding paper awards at ACL 2016 and ACL 2024, and best demo nominations at ACL 2019 and NAACL 2024.
