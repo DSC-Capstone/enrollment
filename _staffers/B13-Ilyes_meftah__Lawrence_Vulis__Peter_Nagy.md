@@ -7,7 +7,7 @@ website:
   - https://www.linkedin.com/in/ilyes-meftah-b2543441
   - https://linkedin.com/in/peter-nagy-71049713
   - https://linkedin.com/in/lawrence-vulis
-domain: B13
+domain: 
 title: Wildfire and Property Intelligence Modeling with Cotality
 bio: |
   Ilyes Meftah has been a data scientist and catastrophe modeler with Cotality for 13 years. With a strong background in mathematics and quantitative finance (holding multiple master's degrees from Paris, France universities), Ilyes has developed risk assessment models for wildfires, hurricanes, and earthquakes throughout his career. Recently, he has been focusing his efforts on quantifying wildfire mitigation measures to help communities located in high-risk areas. He is passionate about solving complex problems and sharing knowledge with others. When not working on catastrophe models, he enjoys hiking around the world with his family.
