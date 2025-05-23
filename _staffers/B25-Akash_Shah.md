@@ -3,7 +3,7 @@ name: "Akash Shah, Lisa Li, Bor-Chau Juang, Pratyush Panda, Victor Calderon"
 email: 
 photo:
 website: https://www.intuit.com/
-domain: B25
+domain: 
 title: Supply-Demand Group Headcount Forecasting
 bio: |
   Lisa Li is an AI/Data Scientist at Intuit, excited to mentor UCSD students in tackling industry-level challenges. With seven years of experience spanning the insurance sector and now tech at Intuit, she specializes in applying Deep Learning, Time Series models, and LLM models to create impactful solutions. Lisa holds a Master's degree in Data Science from GSU and a Bachelor's in Math from UCLA, and is eager to guide students through developing and deploying data-driven models that address real-world business problems.
