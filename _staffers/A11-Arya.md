@@ -3,7 +3,7 @@ name: Prof. Arya Mazumdar
 email: amazumdar@ucsd.edu
 photo:
 website: https://mazumdar.ucsd.edu/
-domain: A11
+domain: 
 title: Explorations on in-context learning in LLMs
 bio: |
   Arya Mazumdar is a Professor at the University of California, San Diego. His research interests include coding theory, information theory, statistical learning, and distributed optimization. He was a recipient of multiple awards, including the Distinguished Dissertation Award for Ph.D. Thesis in 2011, NSF CAREER Award in 2015, EURASIP Best Paper Award in 2020, and IEEE ISIT Jack K. Wolf Student Paper Award in 2010. He was a Distinguished Lecturer of the Information Theory Society for 2023-24, and currently serves as an Associate Editor for IEEE TRANSACTIONS ON INFORMATION THEORY, an Area Editor for Now Publishers Foundation and Trends in Communication and Information Theory series, and an Action Editor of Transactions on Machine Learning Research.
