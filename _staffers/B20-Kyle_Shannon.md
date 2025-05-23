@@ -3,7 +3,7 @@ name: Kyle Shannon
 email: kshannon@ucsd.edu
 photo:
 website: https://www.kmshannon.com/
-domain: B20
+domain: 
 title: "Sepsis — Using Clinical Healthcare Data Science to Identify and Combat an Infectious Killer"
 bio: |
   Hi 👋 I’m Kyle Shannon, as a professional in the public health and data science fields, I am dedicated to improving healthcare accessibility and enhancing patient outcomes, particularly in rural America. My journey began at UCSD, where I studied in the CogSci department as an undergraduate and discovered my passion for Data Science when it was still an emerging field (2013). I later pursued my master's degree in Data Science at UCSD, and eventually co-founded a startup focused on healthcare access. My enthusiasm lies in data science projects that directly impact patient health outcomes, and I maintain a keen interest in cognitive neuroscience and tiny ML systems. Outside of work, you can find me on a tennis court or delighting in the ambiance of a cozy cafe while tackling projects.
