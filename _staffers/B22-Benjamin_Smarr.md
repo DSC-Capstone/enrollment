@@ -3,7 +3,7 @@ name: Benjamin Smarr
 email: bsmarr@ucsd.edu
 photo: 
 website: Smarr.ucsd.edu
-domain: B22
+domain: 
 title: Classification of lab mouse behavior in various disease models
 bio: Prof. Smarr comes from a neuroscience and biological rhythms background. His lab focuses on using longitudinal data sources to develop novel analytics that reveal biologically relevant information from these data, framed by an understanding of the way biological data tend to change at different timescales. This is sometimes naturalistic, but more often related to biomedical algorithm development.
 description: |
