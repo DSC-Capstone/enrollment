@@ -1,6 +1,6 @@
 ---
 name: Peter Chi
-email: 
+email: pbchi@ucsd.edu
 photo:
 website: https://peterbchi.github.io/
 domain: A17
