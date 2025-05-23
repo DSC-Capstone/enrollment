@@ -6,7 +6,7 @@ website:
   - https://www.linkedin.com/in/raju-pusapati-7129445/
   - https://www.linkedin.com/in/drraghu/?originalSubdomain=in
   - https://www.linkedin.com/in/murali-krishnam-320516/
-domain: B23
+domain: 
 title: AI-Assisted Disease Ontology Standardization & Automated Tagging
 bio: |
   Raju Pusapati: Drug Discovery Specialist with 15+ years experience spanning across basic, translational and clinical cancer research  
