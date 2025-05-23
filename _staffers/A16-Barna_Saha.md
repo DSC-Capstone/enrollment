@@ -3,7 +3,7 @@ name: Barna Saha
 email: barnas@ucsd.edu
 photo:
 website: https://en.wikipedia.org/wiki/Barna_Saha
-domain: A16
+domain: 
 title: Theoretical Computer Science
 bio: |
   Check here: https://en.wikipedia.org/wiki/Barna_Saha
