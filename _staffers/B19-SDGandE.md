@@ -1,5 +1,6 @@
 ---
 name: "Phi Nguyen, Chuck Hahm, Fatemeh Aarabi"
+industry: SDG&E
 email: 
 photo:
 website: https://www.sdge.com
