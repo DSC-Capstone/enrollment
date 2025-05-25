@@ -1,5 +1,6 @@
 ---
 name: Raju Pusapati PhD, Raghunandha Reddy Burri PhD, Murali Krishnam
+industry: Solix
 email: 
 photo:
 website:
