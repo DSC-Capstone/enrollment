@@ -29,7 +29,7 @@ At a high level, here’s how the capstone program is organized:
 
 ## Enrollment
 
-First pass for enrollment will begin soon. The available domains are **not** listed on the Schedule of Classes; instead, they are detailed [**below**](#toc). Most domains are run by UCSD faculty, but some are run by industry partners (denoted with an <span class="badge-industry">Industry Partner</span> badge).
+Enrollment will begin soon. The available domains are **not** listed on the Schedule of Classes; instead, they are detailed [**below**](#toc). Most domains are run by UCSD faculty, but some are run by industry partners (denoted with an <span class="badge-industry">Industry Partner</span> badge).
 
 Use the information here to choose the domain you'd like to enroll in. Once you've chosen a domain, all you need to do is enroll in the corresponding discussion section for DSC 180A once registration is open, space permitting. Note that you cannot change domains between DSC 180A and DSC 180B.
 
