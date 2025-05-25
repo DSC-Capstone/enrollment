@@ -1,5 +1,6 @@
 ---
 name: Rajeev Chhajer, Ryan Lingo
+industry: Honda Research Labs
 email: 
 photo: 
 website: https://www.linkedin.com/in/rajeevchhajer/, https://www.linkedin.com/in/ryan-lingo/
