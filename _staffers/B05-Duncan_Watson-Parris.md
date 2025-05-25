@@ -16,7 +16,8 @@ summer: |
   - Read the ClimateBench paper: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021MS002954  
   - Try out the xarray Python library for working with climate data: https://docs.xarray.dev/en/stable/
 time: Wednesday 2-3pm
-ta: In-person (need room booked for me; required if mentoring >4 students in-person)
+ta: TBA
+modality: In-person (need room booked for me; required if mentoring >4 students in-person)
 style: |
   This work is central to CAL so I will meet personally with the students, and it can be integrated into the broader research program to the extent the students want to engage with it. The students will be welcome to join our Lab meetings (typically held at Scripps Institution of Oceanography).
 seats: 6
