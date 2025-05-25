@@ -1,5 +1,5 @@
 ---
-name: "Nathan Hui (Qualcomm Institute/JSOE <nthui@ucsd.edu>), Falko Kuester (Qualcomm Institute/JSOE <fkuester@ucsd.edu>), Neal Driscoll (SIO <ndriscoll@ucsd.edu>)"
+name: "Nathan Hui , Falko Kuester, Neal Driscoll"
 email: "nthui@ucsd.edu, fkuester@ucsd.edu, ndriscoll@ucsd.edu"
 photo:
 website:
