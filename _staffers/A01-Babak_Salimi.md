@@ -18,7 +18,8 @@ summer: |
   Hands-on — pick one:  
   Clone the LAVA GitHub repo and run the quick-start script on a small UCI dataset, producing a ranked list of data values.
 time: Friday 3:00 – 4:00 PM PT
-ta: Zoom
+modality: Zoom
+ta: TBA
 style: |
   Capstone students will operate as an independent cohort: we will meet for a dedicated one-hour session each week where I lead mini-lectures, paper discussions, and milestone check-ins. While my PhD students are not formally part of the section, I may occasionally invite them to hold optional office-hour–style drop-ins for coding or tooling questions. I’ll be hands-on during project framing, data wrangling, and experimental design, then step back so teams can drive their own experiments and insights, checking progress and providing strategic guidance every week.
 seats: 8
