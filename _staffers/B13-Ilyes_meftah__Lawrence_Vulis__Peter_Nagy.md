@@ -1,5 +1,6 @@
 ---
 name: "Ilyes Meftah, Lawrence Vulis, Peter Nagy"
+industry: Cotality
 email: 
 photo:
 website:
