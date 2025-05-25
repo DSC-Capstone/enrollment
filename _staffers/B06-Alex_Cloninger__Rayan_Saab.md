@@ -29,7 +29,8 @@ summer: |
 
   To be able to obtain really nice experimental results, you'll need to pick up PyTorch and also the POT: Python Optimal Transport toolbox.
 time: Early afternoons Mondays is ideal, early afternoons TuTh may work too depending on teaching.
-ta: In-person (need room booked for me; required if mentoring >4 students in-person)
+ta: TBA
+modality: In-person (need room booked for me; required if mentoring >4 students in-person)
 style: |
   We both are relatively hands-on in the sense that we make ourselves available for problem-solving and discussions. That said, students have to be self-motivated, and motivated to do the readings and the work.
 seats: 8
