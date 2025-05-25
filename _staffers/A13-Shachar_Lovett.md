@@ -21,7 +21,8 @@ summer: |
   Models of computation between decision trees and communication:  
   https://escholarship.org/content/qt80d93481/qt80d93481.pdf
 time: Mondays 1-2pm
-ta: In-person (will book own room)
+ta: TBA
+modality: In-person (will book own room)
 style: Initially the capstone project will run standalone, as students learn the area. Then, depending on their interest, we can potentially join an existing research project or they work on their own research project.
 seats: 4
 tag: theory
