@@ -17,7 +17,8 @@ summer: |
   [2] https://arxiv.org/abs/2312.05230  
   [3] https://arxiv.org/abs/2305.14992
 time: Tuesday 3-4PM
-ta: Zoom / In-person (need room booked for me) hybrid
+ta: TBA
+modality: Zoom / In-person (need room booked for me) hybrid
 style: |
   Students can either join the mentor's research group to work closely with PhD students/postdocs on relevant projects, or propose their own ideas and lead the projects. Students are expected to be independent, and mentor will provide necessary advices if needed (PhD students/postdocs can also provide more hands-on guidances).
 seats: 10
