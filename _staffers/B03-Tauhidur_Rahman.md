@@ -20,7 +20,8 @@ description: |
 summer: |
   Enhance your familiarity with LLM, Deep learning, Generative AI tools and techniques.
 time: Monday AM. We will figure a specific timeslot out when the quarter gets near and we know all of our schedules better.
-ta: Hybrid (Zoom and in-person)
+ta: TBA
+modality: Hybrid (Zoom and in-person)
 style: |
   I along with my PhD student will attend the meeting every week. My mentoring style is really to help you to know the right tools, help you to identify the intermediate goals and eventually ask challenging questions. Eventually the success will largely depend on you and your approach to tackle complex questions with lots of uncertainty. I want you to take leadership (almost consider this as an opportunity to write your paper or build your startup, just as an example) and I will be there to help you to navigate the complex landscape of uncertainty in research.
 seats: 8
