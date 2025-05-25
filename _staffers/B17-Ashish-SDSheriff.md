@@ -1,5 +1,6 @@
 ---
 name: "Ashish Kakkad, Dave Blackwell, Christopher Lawrence"
+industry: SD Sheriff
 email: 
 photo:
 website: https://www.sdsheriff.gov/home
