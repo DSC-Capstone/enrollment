@@ -3,10 +3,7 @@ name: Raju Pusapati PhD, Raghunandha Reddy Burri PhD, Murali Krishnam
 industry: Solix
 email: 
 photo:
-website:
-  - https://www.linkedin.com/in/raju-pusapati-7129445/
-  - https://www.linkedin.com/in/drraghu/?originalSubdomain=in
-  - https://www.linkedin.com/in/murali-krishnam-320516/
+website: https://www.solix.com
 domain: 
 title: AI-Assisted Disease Ontology Standardization & Automated Tagging
 bio: |
