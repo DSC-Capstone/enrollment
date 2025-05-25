@@ -1,5 +1,6 @@
 ---
 name: "Akash Shah, Lisa Li, Bor-Chau Juang, Pratyush Panda, Victor Calderon"
+industry: Intuit
 email: 
 photo:
 website: https://www.intuit.com/
