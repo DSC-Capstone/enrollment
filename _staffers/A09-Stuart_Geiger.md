@@ -21,7 +21,8 @@ summer: |
   Take UCSD/CITI IRB Human Subject Protection Training online course (Social and Behavioral Basic), must complete by week 3 of Fall, but good to do it earlier. Register at citiprogram.org and see this video for how to register:  
   - https://www.youtube.com/watch?v=hOAgfK93QXg
 time: Wednesday before noon
-ta: In-person (need room booked for me; required if mentoring >4 students in-person)
+ta: TBA
+modality: In-person (need room booked for me; required if mentoring >4 students in-person)
 style: |
   I will be the point of contact and there every week, but may bring in collaborators and my grad student advisees. I intentionally do not run a "lab", but I do have a "constellation of collaboration." Students can choose their own particular context in which LLMs are deployed and which kinds of community members / impacted people they want to consult.
 seats: 6
