@@ -1,5 +1,6 @@
 ---
 name: "Abed El-Husseini, Balaji Veeramani"
+industry: Deloitte
 email: 
 photo:
 website:
