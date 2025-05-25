@@ -1,5 +1,6 @@
 ---
 name: Brian Duke, Kyle Nero
+industry: Prism Data
 email: 
 photo: 
 website: www.prismdata.com
