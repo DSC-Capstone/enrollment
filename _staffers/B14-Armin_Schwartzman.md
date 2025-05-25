@@ -20,6 +20,6 @@ modality: In-person (need room booked for me; required if mentoring >4 students 
 ta: TBD
 style: |
   Mentoring will involve data science PhD student Gabriel Riegner. Students are expected to take ownership over the project. This implies taking initiative in learning about the topic (from the assigned material and other sources), implementing the methods in code, being resourceful when needing help, and asking questions. Students are expected to put in their best effort, plan their time over the quarter, make substantial progress each week, report on it each week, and come up with an action plan for the next steps (as opposed to waiting for the mentor to give instructions). In other words, be independent and ask for help when needed.
-seats: 8
+seats: 10
 tag: app
 ---
