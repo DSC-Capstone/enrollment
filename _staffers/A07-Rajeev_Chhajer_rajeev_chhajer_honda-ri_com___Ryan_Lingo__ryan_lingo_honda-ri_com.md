@@ -28,7 +28,8 @@ summer: |
 
   If you'd like to discuss the project further, please connect on LinkedIn with Ryan Lingo; he would be happy to discuss further.
 time: Mondays at 12pm-1pm PST
-ta: Zoom
+ta: TBA
+modality: Zoom
 style: |
   We plan to take an engaged but student-led approach to mentoring. We'll work closely with the students throughout the project—meeting regularly, providing guidance, and being available for feedback and support. That said, we're looking for high-agency students who are excited to take ownership of their learning and direction.
 
