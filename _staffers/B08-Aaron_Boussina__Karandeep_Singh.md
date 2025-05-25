@@ -24,7 +24,8 @@ summer: |
   - Transformers  
   - vLLM
 time: Monday, 10am
-ta: Zoom
+ta: TBA
+modality: Zoom
 style: |
   Capstone students will be integrated into the Jacobs Center for Health Innovation (JCHI) research group and will lead an independent project. Students will be expected to manage their projects, develop their software, test their hypotheses, and submit a peer-reviewed paper by the end of the course (with mentorship).
 seats: 6
