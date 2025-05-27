@@ -2,8 +2,8 @@
 name: "Nathan Hui , Falko Kuester, Neal Driscoll"
 email: "nthui@ucsd.edu, fkuester@ucsd.edu, ndriscoll@ucsd.edu"
 photo:
-website:
-  - "https://alertcalifornia.org"
+website: |
+  - https://alertcalifornia.org
   - "https://www.linkedin.com/in/ntlhui/"
   - "https://chei.ucsd.edu/team/fkuester/"
   - "https://ndriscoll.scrippsprofiles.ucsd.edu/links/"
