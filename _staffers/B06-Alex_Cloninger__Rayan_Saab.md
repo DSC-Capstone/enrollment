@@ -28,7 +28,7 @@ summer: |
   - https://www.ipb.uni-bonn.de/data/4d-plant-registration/
 
   To be able to obtain really nice experimental results, you'll need to pick up PyTorch and also the POT: Python Optimal Transport toolbox.
-time: Early afternoons Mondays is ideal, early afternoons TuTh may work too depending on teaching.
+time: Mondays 2-3pm
 ta: TBA
 modality: In-person (need room booked for me; required if mentoring >4 students in-person)
 style: |
