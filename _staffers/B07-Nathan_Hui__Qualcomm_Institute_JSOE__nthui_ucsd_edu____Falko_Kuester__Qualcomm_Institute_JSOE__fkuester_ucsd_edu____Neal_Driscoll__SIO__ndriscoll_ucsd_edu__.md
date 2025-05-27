@@ -2,12 +2,8 @@
 name: "Nathan Hui , Falko Kuester, Neal Driscoll"
 email: "nthui@ucsd.edu, fkuester@ucsd.edu, ndriscoll@ucsd.edu"
 photo:
-website: |
-  - https://alertcalifornia.org
-  - "https://www.linkedin.com/in/ntlhui/"
-  - "https://chei.ucsd.edu/team/fkuester/"
-  - "https://ndriscoll.scrippsprofiles.ucsd.edu/links/"
-domain: 
+website: https://alertcalifornia.org
+domain:
 title: ALERTCalifornia - Extreme Events Detection
 bio: |
   Nathan Hui is currently a research engineer at UC San Diego at the Qualcomm Institute. His area of focus is multi-domain robotics, 3D imaging, and distributed sensor networks. Previous projects include tracking transmittered wildlife using drones, measuring physical oceanographic data using intelligent surfboard fins, and measuring fish length using low-cost lasers, dive cameras, and machine learning.
