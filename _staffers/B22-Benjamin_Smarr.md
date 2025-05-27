@@ -1,7 +1,7 @@
 ---
 name: Benjamin Smarr, Manny Ruidiaz
 email: bsmarr@ucsd.edu, manny.ruidiaz@murine.org
-industry: Jackson Labs
+industry: TLR Ventures
 photo: 
 website: Smarr.ucsd.edu
 domain: 
