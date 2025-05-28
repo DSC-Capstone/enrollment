@@ -1,7 +1,7 @@
 ---
 name: Ali Arsanjani
 email: arsanjani@google.com
-photo: assets/images/arsanjani.jpeg
+photo: 
 website: alternusvera.com
 domain: 
 title: GenAI for Good
