@@ -20,7 +20,7 @@ summer: |
 
   Take UCSD/CITI IRB Human Subject Protection Training online course (Social and Behavioral Basic), must complete by week 3 of Fall, but good to do it earlier. Register at citiprogram.org and see this video for how to register:  
   - https://www.youtube.com/watch?v=hOAgfK93QXg
-time: Wednesday before noon
+time: Wednesdays 10-11am
 ta: TBA
 modality: In-person (need room booked for me; required if mentoring >4 students in-person)
 style: |
