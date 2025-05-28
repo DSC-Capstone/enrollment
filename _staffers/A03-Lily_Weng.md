@@ -14,7 +14,7 @@ summer: |
   1. Concept Bottleneck Large Language Models: https://arxiv.org/pdf/2412.07992
   2. Interpretable Generative Models through Post-hoc Concept Bottlenecks: https://arxiv.org/abs/2503.19377
   3. Iterative Self-Tuning LLMs for Enhanced Jailbreaking Capabilities: https://arxiv.org/pdf/2410.18469
-time: maybe Mon or Fri afternoon
+time: Monday at 4pm
 modality: Zoom
 ta: TBD
 style: |
