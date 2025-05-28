@@ -13,7 +13,7 @@ summer: |
   https://arxiv.org/pdf/2403.02509
   https://arxiv.org/pdf/2406.02543
   https://openreview.net/pdf?id=p6jsTidUkPx
-time: TBD 
+time: Thursday at 10am
 ta: TBA
 modality: Zoom
 style: 
