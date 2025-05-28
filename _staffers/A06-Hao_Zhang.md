@@ -13,7 +13,7 @@ description: |
   - On the model side: build multimodal model close to ChatGPT quality, which can also interact with the real world by taking actions and using tools.
   - On the data and benchmark side: develop a highly curated data sets and benchmark platform with novel data augmentation, data filtering, and ranking methods.
 summer: Read papers in https://cseweb.ucsd.edu/~haozhang/publication
-time: TBD
+time: Mondays 3-4pm
 ta: Zoom
 style: hands off
 seats: 8
