@@ -17,7 +17,7 @@ description: |
   We would like to investigate where machine learning techniques can assist with assessing camera network health, data integrity, and environmental signals. Potential projects include camera site uptime detection, cloud detection, marine layer height detection, Visual Flight Rules altitude estimation, horizon detection, or camera positioning calibration.
 summer: |
   Students should be able to utilize Nautilus NRP, be familiar with active learning techniques, semi-supervised or unsupervised learning, and utilizing web APIs. We expect most work to be done in Python. Please also be familiar with Docker, Poetry, Kubernetes, and Tornado.
-time: Mo/Tu/We/Th 10am-3pm
+time: Tuesday 11am
 modality: In-person (will book own room)
 ta: TBD
 style: |
