@@ -58,7 +58,7 @@ Everything you produce for the capstone will have to be public on the internet f
 
 In addition to meeting with your mentor each week, there will also be methodology instruction delivered by the capstone coordinator and the methodology course staff. However, the majority of this instruction will occur asynchronously, in the form of readings (like [this one](https://dsc-capstone.org/2024-25/lessons/01/)). **This means that you can mostly ignore the lecture and lab times that appear for DSC 180A on the Schedule of Classes.** A few of the lecture slots may be used for the capstone coordinator's office hours or for one-off guest lectures, but we don't plan to use the majority of the times.
 
-All prerequisites for DSC 180A will be strictly enforced. The prerequisites for DSC 180A can be found [**here**](https://datascience.ucsd.edu/current-students/course-descriptions-and-prerequisites/#dsc-180a-data-science-project-1). If you took either DSC 140A, DSC 140B, or DSC 148 to satisfy the machine learning prerequisite, you may need to submit an [Enrollment Authorization System](https://academicaffairs.ucsd.edu/Modules/Students/PreAuth/) request in order to enroll in DSC 180A in fall quarter.
+All prerequisites for DSC 180A will be strictly enforced. The prerequisites for DSC 180A can be found [**here**](https://datascience.ucsd.edu/current-students/course-descriptions-and-prerequisites/#dsc-180a-data-science-project-1).
 
 Note that since DSC 180A and DSC 180B are both 4-unit courses, you should expect to spend 12 hours a week on capstone-related work each quarter. Plan your class schedule accordingly – try not to take several time-consuming classes alongside the capstone.
 
