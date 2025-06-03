@@ -14,7 +14,7 @@ description: |
   Through this experience you will learn about video processing and featurization, biomedical research and biological rhythms, signal processing, and you can help decide on additional areas of focus, as in visualization, application of transformers, or anything else you might want to explore. You will also gain experience interacting with industry partners, and if you find the work compelling, possibly also a job opportunity.
 summer: |
   Learn a little about TLR Ventures (https://theorg.com/org/tlr-ventures) and about Jax mice https://www.jax.org/). Please also look into automated behavior analysis. The following is a good paper giving an example of how good video analysis can uncover important classifications that were not obvious by eye or by statistical aggregation.
-time: TBA
+time: Thursdays 3pm
 modality: In-person (will book own room)
 ta: TBA
 style: I like to support exploration. I will provide overviews of techniques and relevant biology, and I will help you identify goals each week. You will do that with me, so that we use this opportunity to challenge you, but also to provide an excuse for you to learn things you wanted to learn, but maybe needed data and or guidance to actually dive in. 
