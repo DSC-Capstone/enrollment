@@ -4,7 +4,7 @@ industry: Honda Research Labs
 email: 
 photo: 
 website: https://www.linkedin.com/in/rajeevchhajer/, https://www.linkedin.com/in/ryan-lingo/
-domain: 
+domain: A07
 title: Evaluation Strategies for Next-Generation AI Systems
 bio: |
   Rajeev Chhajer is the Chief Engineer at Honda Research Institute USA and leads the Software-defined Intelligence team at 99P Labs. He is a founding member of 99P Labs, a research initiative dedicated to developing sustainable technologies and innovative approaches to global challenges. His research focuses on smart city ecosystems, embedded systems, and connectivity to support sustainable and efficient mobility.

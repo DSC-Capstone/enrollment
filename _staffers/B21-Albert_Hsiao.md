@@ -3,7 +3,7 @@ name: Albert Hsiao
 email: hsiao@ucsd.edu
 photo: 
 website: https://profiles.ucsd.edu/albert.hsiao
-domain: 
+domain: B21
 title: Deep learning analysis and augmentation of medical images
 bio: |
   Albert Hsiao, MD, PhD is a cardiothoracic radiologist trained in engineering at Caltech and bioengineering and bioinformatics in the UC San Diego Medical Scientist Training Program (MSTP). He completed his residency and fellowships in Interventional Radiology and Cardiovascular Imaging at Stanford before returning to UC San Diego as faculty in Radiology, where he leads advanced cardiovascular imaging and the Augmented Imaging and Data Analytics (AiDA) research laboratory. While a radiology resident at Stanford, he co-founded Arterys, a cloud-native software company to bring 4D Flow MRI and artificial intelligence technologies to market. He continues to partner with industry to develop and create new imaging technologies to improve diagnosis and management of disease.

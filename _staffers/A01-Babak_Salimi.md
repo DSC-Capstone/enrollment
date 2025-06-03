@@ -3,7 +3,7 @@ name: Babak Salimi
 email: 
 photo: 
 website: https://bsalimi.github.io/
-domain: 
+domain: A01
 title: Data Valuation & Curation for Trustworthy AI
 bio: |
   Babak Salimi is an Assistant Professor in the Halıcıoğlu Data Science Institute at UC San Diego. His research lies at the intersection of data management and machine learning, with a focus on building reliable, safe, and robust data-driven systems. He develops methods and tools that enhance the transparency and dependability of algorithmic decision-making, empowering practitioners to make informed and confident choices.

@@ -5,7 +5,7 @@ photo:
 website:
   - http://www.listeningtowaves.com
   - https://pages.ucsd.edu/~desa/index.html
-domain: 
+domain: B12
 title: Scrolling sound and talking hand
 bio: |
   Victor Minces studied fine arts and physics at the University of Buenos Aires, and obtained his Ph.D. in computational neuroscience at UCSD. He researched how the brain represents sensory stimuli, including light and rhythmic sound, and the cognitive basis of musical rhythm. He created a program making widely used web applications and hands-on activities for people to play, experiment, and learn about sound. Besides his science and technology endeavors, he is a sound artist and performer, leading audiences of hundreds of people to explore and create sound together. Recently, his team has been designing original sonic interfaces for people to create sound and music, listen to audiobooks, and communicate.

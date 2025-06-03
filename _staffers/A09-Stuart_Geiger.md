@@ -3,7 +3,7 @@ name: Stuart Geiger
 email: sgeiger@ucsd.edu
 photo:
 website: https://stuartgeiger.com
-domain: 
+domain: A09
 title: Community-Centered Discrimination Audits of LLMs - Bias Rapid Action Teams
 bio: |
   I’m a social scientist with a background in the humanities, especially history and philosophy of science and technology, but I have enough expertise in computer science and data science to make trouble. I believe that data science systems should be fair, transparent, and accountable to the public, but that most are currently not. A lot of my research is in community-centered content moderation NLP systems for user-generated content, especially Wikipedia, where I formerly worked on their ML models and systems.

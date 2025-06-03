@@ -3,7 +3,7 @@ name: Tauhidur Rahman
 email: trahman@ucsd.edu
 photo: 
 website: https://mosaic-laboratory.github.io/
-domain: 
+domain: B03
 title: Digital twin model for health with wearable data
 bio: I direct the Mosaic lab.
 description: |

@@ -3,7 +3,7 @@ name: Shachar Lovett
 email: slovett@ucsd.edu
 photo: 
 website: https://cseweb.ucsd.edu/~slovett
-domain: 
+domain: A13
 title: Communication Complexity
 bio: I work broadly in theoretical computer science, with a specific interest in computational complexity, randomness and pseudo-randomness, algebraic constructions, optimization, and combinatorics.
 description: |

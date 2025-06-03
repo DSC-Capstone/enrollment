@@ -3,7 +3,7 @@ name: Harinath Garudadri
 email: "hgarudadri@ucsd.edu, hari@nadiworks.com"
 photo:
 website: https://www.nadiworks.com/
-domain: 
+domain: B11
 title: HCI and Reinforcement Learning for Hearing Loss Compensation
 bio: |
   I run a lab at UCSD that conducts fundamental and translational research at the intersection of Technology, Healthcare, and Education -- THELab.  

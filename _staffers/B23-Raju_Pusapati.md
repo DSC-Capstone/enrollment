@@ -4,7 +4,7 @@ industry: Solix
 email: 
 photo:
 website: https://www.solix.com
-domain: 
+domain: B23
 title: AI-Assisted Disease Ontology Standardization & Automated Tagging
 bio: |
   Raju Pusapati: Drug Discovery Specialist with 15+ years experience spanning across basic, translational and clinical cancer research  

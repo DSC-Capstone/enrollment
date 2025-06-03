@@ -4,7 +4,7 @@ industry: SDG&E
 email: 
 photo:
 website: https://www.sdge.com
-domain: 
+domain: B19
 title: From Data to Dispatch - Optimizing SDG&E Field Services
 bio: |
   Dr. Nguyen graduated from UCSD with a Ph.D. in Materials Science and Engineering, where he developed nanomaterials for clean energy applications. He then worked for several years as a consultant in the energy sector, where his focus was on using data to support policies that promote clean energy and energy efficiency. Dr. Nguyen joined SDG&E to focus on developing models to mitigate wildfire risk in California and has since expanded his work to other areas that benefit San Diego communities.

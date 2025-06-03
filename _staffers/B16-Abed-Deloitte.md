@@ -6,7 +6,7 @@ photo:
 website:
   - https://www.linkedin.com/in/aelhusseini
   - https://www.linkedin.com/in/balaji-veeramani-9a161b9/
-domain: 
+domain: B16
 title: Agentic Applications and Knowledge Graphs in Life Sciences 🧪🧬
 bio: |
   Abed – Abed is an Applied AI Manager at Deloitte Consulting, specializing in Generative AI applications. Passionate about teaching, he has served as a business case mentor and capstone instructor for HDSI. A proud graduate of The Ohio State University, Abed now lives in Austin, Texas—the live music capital of the world—with his wife and son 🤠🎸. He's an avid runner and a dessert enthusiast, in that order.

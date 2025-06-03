@@ -3,7 +3,7 @@ name: Peter Chi
 email: pbchi@ucsd.edu
 photo:
 website: https://peterbchi.github.io/
-domain: 
+domain: A17
 title: Simulation coding exercises for teaching probability theory
 bio: |
   I received my PhD from the Department of Biostatistics at the University of Washington. My primary research focus is statistical phylogenetics, with secondary interests in statistics education and in casino games of chance. Prior to joining the faculty at HDSI, I was an Associate Professor of Statistics at Villanova University -- the alma mater of one pope and three future NBA champions (I am writing this on May 17th 2025 as the NY Knicks have just won their Eastern Conference Semifinal series, and I'm calling it now). 

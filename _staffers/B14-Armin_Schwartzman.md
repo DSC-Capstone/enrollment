@@ -3,7 +3,7 @@ name: Armin Schwartzman
 email: armins@ucsd.edu
 photo:
 website: https://schwartzman.scholar.st/
-domain: 
+domain: B14
 title: Comparing Maps from Human Brain Imaging
 bio: |
   With an undergraduate degree in electrical engineering, I discovered statistics for my PhD and have been doing data science since then (even when it wasn't called by that name). Much of my work involves signal and image analysis, but I'm interested in many theoretical and applied problems, even philosophical. Outside of academia, I like doing music, dancing, swimming, surfing, and more.
