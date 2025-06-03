@@ -1,5 +1,5 @@
 ---
-name: Raju Pusapati PhD, Raghunandha Reddy Burri PhD, Murali Krishnam
+name: Raju Pusapati PhD, Raghunandha Reddy Burri PhD, Murali Krishnam, Justin Eldridge
 industry: Solix
 email: 
 photo:
