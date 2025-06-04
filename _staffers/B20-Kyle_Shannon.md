@@ -29,6 +29,6 @@ style: |
   My goal is to create a capstone experience that emulates a practical "job" setting, guiding students in effectively interacting with managers and data science leads, asking relevant questions, and fulfilling their responsibilities. I may assume various roles (e.g., DS lead, stakeholder, hospital admin, manager) to offer diverse perspectives. I incorporate a business angle to discuss the project's broader context, encouraging students to envision their work in scenarios such as product development or hospital consultancy. This approach helps them grasp real-world applications and develop a compelling narrative for their projects.
 
   I prioritize accessibility for my students throughout the week, for example, via Discord, and may involve domain experts for them to interview and learn from professionals in ICUs and EHR data. This context adds valuable insight and humanizes the data/system. I often hold informal meetings with my students over coffee to discuss progress and answer questions. Occasionally, I expect them to provide progress reports and mini-presentations, simulating a real-world organizational experience.
-seats: 4
+seats: 8
 tag: app
 ---
