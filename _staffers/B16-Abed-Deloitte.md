@@ -26,6 +26,6 @@ summer: |
   - AI Engineering (on building and evaluating agentic solutions): https://www.oreilly.com/library/view/ai-engineering/9781098166298/
 seats: 8
 time: Tuesdays 1-2pm
-modality: Zoom (link TBA)
+modality: MS Teams (link TBA)
 tag: app
 ---
