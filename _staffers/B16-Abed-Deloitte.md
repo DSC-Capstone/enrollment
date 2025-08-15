@@ -25,5 +25,7 @@ summer: |
   - Biomedical Knowledge Graph: A Survey of Domains, Tasks, and Real-World Applications: https://arxiv.org/pdf/2501.11632  
   - AI Engineering (on building and evaluating agentic solutions): https://www.oreilly.com/library/view/ai-engineering/9781098166298/
 seats: 8
+time: Tuesdays 1-2pm
+modality: Zoom (link TBA)
 tag: app
 ---
