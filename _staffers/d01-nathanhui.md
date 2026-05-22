@@ -1,15 +1,10 @@
+---
 name: Nathan Hui, Falko Kuester, Neal Driscoll
-
 email: nthui@ucsd.edu, fkuester@ucsd.edu, ndriscoll@ucsd.edu
-
 photo:
-
 website: https://alertcalifornia.org
-
 domain: D01
-
 title: ALERTCalifornia - Extreme Events Detection
-
 bio: | Nathan Hui is currently a research engineer at UC San Diego at the Qualcomm Institute. His area of focus is multi-domain robotics, 3D imaging, and distributed sensor networks. Previous projects include tracking transmittered wildlife using drones, measuring physical oceanographic data using intelligent surfboard fins, and measuring fish length using low-cost lasers, dive cameras, and machine learning.
 
 Prof. Kuester received an MS degree in Mechanical Engineering in 1994 and MS degree in Computer Science and Engineering in 1995 from the University of Michigan, Ann Arbor. In 2001 he received a Ph.D. from the University of California, Davis and currently is the Calit2 Professor for Visualization and Virtual Reality at the University of California, San Diego. Professor Kuester holds appointments as Professor in the Departments of Structural Engineering and Computer Science and Engineering at the Jacobs School of Engineering (JSoE) and serves as the director of the Cultural Heritage Engineering Initiative (CHEI), the Center of Interdisciplinary Science for Art, Architecture and Archaeology (CISA3), the Calit2 Center of Graphics, Visualization and Virtual Reality (GRAVITY) and the DroneLab.
@@ -33,3 +28,4 @@ style: | We can facilitate mentorship in our facilities (Atkinson Hall). This wi
 
 seats: 8
 tag: app
+---
