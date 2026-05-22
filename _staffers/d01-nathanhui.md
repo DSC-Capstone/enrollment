@@ -1,4 +1,3 @@
-
 ---
 name: Nathan Hui, Falko Kuester, Neal Driscoll
 
