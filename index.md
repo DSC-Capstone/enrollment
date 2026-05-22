@@ -20,7 +20,7 @@ nav_order: 1
 
 ## Overview
 
-Welcome to the capstone program! The capstone program is a two-quarter sequence (Fall 2025 and Winter 2026) in which you will be mentored by a faculty member or industry expert in their domain of expertise. By the end of Quarter 2, you will design and execute a project from that domain in teams. You can see the projects from last year at [**dsc-capstone.org/showcase-25**](https://dsc-capstone.org/showcase-25).
+Welcome to the capstone program! The capstone program is a two-quarter sequence (Fall 2026 and Winter 2027) in which you will be mentored by a faculty member or industry expert in their domain of expertise. By the end of Quarter 2, you will design and execute a project from that domain in teams. You can see the projects from last year at [**dsc-capstone.org/showcase-25**](https://dsc-capstone.org/showcase-26).
 
 
 At a high level, here’s how the capstone program is organized:
