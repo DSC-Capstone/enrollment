@@ -7,6 +7,8 @@ photo:
 
 website: www.terizza.com
 
+industry: true
+
 domain: D32
 
 title: Autonomous, Multimodal Data Ecosystem for Enterprise Intelligence
