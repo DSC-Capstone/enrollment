@@ -7,6 +7,8 @@ photo:
 
 website: www.terizza.com
 
+industry: true
+
 domain: D29
 
 title: Agentic workload analysis on at scale health / bio tech use cases to determine optimzal CPU, GPU and memory architectures.
