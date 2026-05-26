@@ -9,7 +9,7 @@ website: https://www.linkedin.com/in/ilyes-meftah-b2543441/ https://uk.linkedin.
 
 domain: D31
 
-industry: yes
+industry:
 
 title: "(1) European Wildfire and Property Intelligence Modeling with Cotality (2) Property Intelligence: Enhancing Geospatial Data Quality for Risk Assessment"
 
