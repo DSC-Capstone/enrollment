@@ -7,6 +7,8 @@ photo:
 
 website: https://www.intuit.com/
 
+industry: true
+
 domain: D30
 
 title: "Red-Teaming the Swarm: Autonomous Auditing for Financial LLMs"
