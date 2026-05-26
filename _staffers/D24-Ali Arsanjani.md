@@ -5,6 +5,8 @@ email: arsanjani@google.com
 
 photo:
 
+industry: true
+
 website: alternusvera.com
 
 domain: D24
