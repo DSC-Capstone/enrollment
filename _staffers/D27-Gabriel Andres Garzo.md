@@ -5,6 +5,8 @@ email: gabrielandres.garzo@rpsandiego.com, madison.hughes@rpsandiego.com
 
 photo:
 
+industry: true
+
 website: https://www.linkedin.com/in/madison-hughes-8083a115a/ , https://www.linkedin.com/in/gabriel-andres-garzo-8245474/
 
 domain: D27
