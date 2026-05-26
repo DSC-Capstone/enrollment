@@ -7,6 +7,8 @@ photo:
 
 website: www.99plabs.com
 
+industry: true
+
 domain: D25
 
 title: "Epistemic Engines: Turning Raw Data into Living Knowledge Bases for AI Agents"
