@@ -35,7 +35,7 @@ summer: |
 
   Q1 replication target: re-implement the MMD/KAIROS valuation pipeline against last year's benchmark, then adapt it so the value function rewards safety (low jailbreak susceptibility, low unsafe-tool-call rate) rather than just accuracy. By the end of Q1 you should have safety-aware data scores for a non-trivial agent training set.
 
-time: Fridays, 11am–12pm (Pacific). Flexible to adjust around students' fall schedules; if a different fixed Friday slot works better for the team I'm open to it.
+time: Fridays, 11am–12pm
 
 modality: Zoom
 
