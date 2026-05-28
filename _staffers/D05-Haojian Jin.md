@@ -1,7 +1,7 @@
 ---
-name: Dr. Haojian Jin, Assistant Professor, UCSD; Dr. Michael Deisher, Distinguished Engineer, Azimuth AI; Sylvia Downing, Chief Technology Officer, Azimuth AI
+name: Dr. Haojian Jin, Dr. Michael Deisher and Sylvia Downing (Azimuth AI)
 
-email: haojian@ucsd.edu, michael.deisher@azimuth-ai.com; sylvia.j.downing@azimuth-ai.com
+email: haojian@ucsd.edu, michael.deisher@azimuth-ai.com, sylvia.j.downing@azimuth-ai.com
 
 photo:
 
