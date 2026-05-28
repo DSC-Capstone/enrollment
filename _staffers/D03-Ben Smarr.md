@@ -1,5 +1,5 @@
 ---
-name: ben smarr, manny ruidiaz from TLR Ventures
+name: Ben Smarr, Manny Ruidiaz from TLR Ventures
 
 email: manny.ruidiaz@murine.org, bsmarr@ucsd.edu
 
