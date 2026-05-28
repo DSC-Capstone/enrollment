@@ -23,7 +23,7 @@ description: |
 summer: |
   https://cobra.clawder.ai/ Read the paper and understand the codebase
 
-time: Either in-person or fully zoom, depends on the students' preference. Prefer to meet at the end of a weekday.
+time: TBD
 
 modality: In-person (need room booked for me; required if mentoring >4 students in-person)
 
