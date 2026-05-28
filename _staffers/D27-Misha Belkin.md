@@ -1,7 +1,7 @@
 ---
 name: Misha Belkin
 
-email: 
+email: mbelkin@ucsd.edu
 
 photo:
 
