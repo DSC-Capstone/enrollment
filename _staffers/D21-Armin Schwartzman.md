@@ -1,7 +1,7 @@
 ---
-name: Armin Schwartzman <armins@ucsd.edu>, Justin Eldridge <jeldridge@ucsd.edu>
+name: Armin Schwartzman, Justin Eldridge
 
-email: 
+email: armins@ucsd.edu, jeldridge@ucsd.edu
 
 photo:
 
