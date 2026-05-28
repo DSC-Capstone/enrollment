@@ -1,7 +1,7 @@
 ---
 name: Stuart Geiger
 
-email: 
+email: sgeiger@ucsd.edu
 
 photo:
 
