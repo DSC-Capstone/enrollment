@@ -1,5 +1,5 @@
 ---
-name: Dusan Bosnjakovic (dusan_bosnjakovic@intuit.com); Perez Ogayo (perez_ogayo@intuit.com); Dhruvi Kothari (dhruvi_kothari@intuit.com); Victor Calderon (victor_calderon@intuit.com)
+name: Dusan Bosnjakovic, Perez Ogayo, Dhruvi Kothari, Victor Calderon
 
 email: dusan_bosnjakovic@intuit.com; perez_ogayo@intuit.com; dhruvi_kothari@intuit.com; victor_calderon@intuit.com
 
@@ -37,7 +37,7 @@ summer: |
   Multi-Agent architecture
   LLM Evaluations & Benchmarking
 
-time: Thursdays - 2-3 pm (but can be modified)
+time: Thursdays - 2-3 pm
 
 modality: Zoom
 
