@@ -1,5 +1,5 @@
 ---
-name: Igor Sfiligoi <isfiligoi@sdsc.edu> (SDSC) and Nicholas Boechler <nboechler@ucsd.edu> (MAE)
+name: Igor Sfiligoi(SDSC) and Nicholas Boechler(MAE)
 
 email: isfiligoi@sdsc.edu, nboechler@ucsd.edu
 
