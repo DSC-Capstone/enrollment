@@ -1,5 +1,5 @@
 ---
-name: Ben Smarr, Manny Ruidiaz from TLR Ventures
+name: Ben Smarr, Manny Ruidiaz
 
 email: manny.ruidiaz@murine.org, bsmarr@ucsd.edu
 
@@ -9,7 +9,7 @@ website: smarr.ucsd.edu, https://www.tlr.vc/
 
 domain: D03
 
-title: analysis of lab mouse video data to automate detection of drug effects
+title: Analysis of lab mouse video data to automate detection of drug effects
 
 bio: |
   Prof Smarr works on time series analyses in biological systems. His work focuses on algorithmic equity, and especially how people and animals show differences in temporal regulation or dynamics that color analyses on data from those subjects. These data-driven identities often differ from classical demographics (e.g. not all women show stable menstrual cycles, so "cycle type" is not the same as "sex") and allow for better accounting of variance in biological system data, enabling greater precision in health predictive algorithms.
