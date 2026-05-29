@@ -1,12 +1,18 @@
 ---
-name: Dr. Haojian Jin, Dr. Michael Deisher and Sylvia Downing (Azimuth AI)
-
-email: haojian@ucsd.edu, michael.deisher@azimuth-ai.com, sylvia.j.downing@azimuth-ai.com
-
-photo:
-
-website: https://www.linkedin.com/in/sylviadowning
-
+dual: true
+trio: true
+name1: Haojian Jin
+website1: https://www.haojianj.in
+email1: haojian@ucsd.edu
+name2: Michael Deisher (Azimuth AI)
+website2:
+email2: michael.deisher@azimuth-ai.com
+name3: Sylvia Downing (Azimuth AI)
+website3: https://www.linkedin.com/in/sylviadowning
+email3: sylvia.j.downing@azimuth-ai.com
+photo1:
+photo2:
+photo3:
 domain: D05
 
 title: Deep learning techniques for understanding and mitigating electric energy costs at home
