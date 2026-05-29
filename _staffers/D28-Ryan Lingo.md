@@ -1,11 +1,13 @@
 ---
-name: Ryan Lingo and Rajeev Chhajer
-
-email: ryan_lingo@honda-ri.com and rajeev_chhajer@honda-ri.com
-
-photo:
-
-website: www.99plabs.com
+dual: true
+name1: Ryan Lingo
+website1: https://www.99plabs.com
+email1: ryan_lingo@honda-ri.com
+name2: Rajeev Chhajer
+website2: https://www.99plabs.com
+email2: rajeev_chhajer@honda-ri.com
+photo1:
+photo2:
 
 industry: true
 
