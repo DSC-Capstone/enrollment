@@ -5,7 +5,7 @@ email: rgupta@ucsd.edu
 
 photo:
 
-website: mesl.ucsd.edu
+website: https://mesl.ucsd.edu
 
 domain: D35
 
