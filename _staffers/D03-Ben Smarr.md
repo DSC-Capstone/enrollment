@@ -1,11 +1,13 @@
 ---
-name: Ben Smarr, Manny Ruidiaz
-
-email: manny.ruidiaz@murine.org, bsmarr@ucsd.edu
-
-photo:
-
-website: smarr.ucsd.edu, https://www.tlr.vc/
+dual: true
+name1: Ben Smarr
+website1: https://smarr.ucsd.edu
+email1: bsmarr@ucsd.edu
+name2: Manny Ruidiaz
+website2: https://www.tlr.vc/
+email2: manny.ruidiaz@murine.org
+photo1:
+photo2:
 
 domain: D03
 
