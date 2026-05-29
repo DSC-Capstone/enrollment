@@ -1,11 +1,18 @@
 ---
-name: Renu Raman, Vikram Joshi, Jack Brzeznski
-
-email: renu.raman@terizza.com, vikram.joshi@terizza.com, jack.brzeznski@terizza.com
-
-photo:
-
-website: www.terizza.com
+dual: true
+trio: true
+name1: Renu Raman
+website1: https://www.terizza.com
+email1: renu.raman@terizza.com
+name2: Vikram Joshi
+website2: https://www.terizza.com
+email2: vikram.joshi@terizza.com
+name3: Jack Brzeznski
+website3: https://www.terizza.com
+email3: jack.brzeznski@terizza.com
+photo1:
+photo2:
+photo3:
 
 industry: true
 
