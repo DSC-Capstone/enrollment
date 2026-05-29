@@ -1,11 +1,18 @@
 ---
-name: Kyle Nero, Daniel Mathew, Berk Ustun
-
-email: kyle.nero@prismdata.com, daniel.mathew@prismdata.com, berk@ucsd.edu
-
-photo:
-
-website: prismdata.com, https://www.linkedin.com/in/kylenero/, https://www.linkedin.com/in/daniel-roy-mathew/
+dual: true
+trio: true
+name1: Kyle Nero
+website1: https://www.linkedin.com/in/kylenero/
+email1: kyle.nero@prismdata.com
+name2: Daniel Mathew
+website2: https://www.linkedin.com/in/daniel-roy-mathew/
+email2: daniel.mathew@prismdata.com
+name3: Berk Ustun
+website3:
+email3: berk@ucsd.edu
+photo1:
+photo2:
+photo3:
 
 domain: D12
 
