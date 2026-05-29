@@ -5,7 +5,7 @@ email: vminces@ucsd.edu
 
 photo:
 
-website: www.listeningtowaves.com, www.victorminces.com
+website: https://www.victorminces.com
 
 domain: D19
 
