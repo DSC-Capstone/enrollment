@@ -1,12 +1,18 @@
 ---
-name: Nathan Hui, Falko Kuester, Neal Driscoll
-
-email: nthui@ucsd.edu, fkuester@ucsd.edu, ndriscoll@ucsd.edu
-
-photo:
-
-website: https://alertcalifornia.org
-
+dual: true
+trio: true
+name1: Nathan Hui
+website1: https://alertcalifornia.org
+email1: nthui@ucsd.edu
+name2: Falko Kuester
+website2: https://alertcalifornia.org
+email2: fkuester@ucsd.edu
+name3: Neal Driscoll
+website3: https://alertcalifornia.org
+email3: ndriscoll@ucsd.edu
+photo1:
+photo2:
+photo3:
 domain: D14
 
 title: "ALERTCalifornia: Extreme Events Detection"
