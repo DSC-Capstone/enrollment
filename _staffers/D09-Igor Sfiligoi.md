@@ -1,7 +1,10 @@
 ---
-name: "[Igor Sfiligoi(SDSC)](https://shape.ucsd.edu) and [Nicholas Boechler(MAE)](https://boechler.ucsd.edu)"
-
-email: isfiligoi@sdsc.edu, nboechler@ucsd.edu
+name1: Igor Sfiligoi (SDSC)
+website1: https://shape.ucsd.edu
+name2: Nicholas Boechler (MAE)
+website2: https://boechler.ucsd.edu
+email1: isfiligoi@sdsc.edu
+email2: nboechler@ucsd.edu
 
 photo:
 
