@@ -5,7 +5,7 @@ email: yusuwang@ucsd.edu
 
 photo:
 
-website: yusu.belkin-wang.org
+website: https://yusu.belkin-wang.org
 
 domain: D32
 
