@@ -1,4 +1,6 @@
 ---
+layout: staffer
+dual: true
 name1: Igor Sfiligoi (SDSC)
 website1: https://shape.ucsd.edu
 name2: Nicholas Boechler (MAE)
