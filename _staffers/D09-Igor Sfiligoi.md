@@ -8,8 +8,6 @@ email2: nboechler@ucsd.edu
 
 photo:
 
-website: https://shape.ucsd.edu,  https://boechler.ucsd.edu
-
 domain: D09
 
 title: Data-driven design of nonlinear architected materials
