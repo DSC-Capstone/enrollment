@@ -5,7 +5,7 @@ email: amazumdar@ucsd.edu
 
 photo:
 
-website: mazumdar.ucsd.edu
+website: https://mazumdar.ucsd.edu
 
 domain: D39
 
