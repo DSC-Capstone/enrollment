@@ -1,11 +1,19 @@
 ---
-name: Ilyes Meftah, Justin Murphy, Mark Dixon, Lawrence Vulis
-
-email: imeftah@cotality.com, jmurphy@cotality.com, markdixon@cotality.com, lvulis@cotality.com
-
+dual: true
+trio: true
+name1: Ilyes Meftah
+website1: https://www.linkedin.com/in/ilyes-meftah-b2543441/
+email1: imeftah@cotality.com
+name2: Justin Murphy
+website2: https://uk.linkedin.com/in/justin-murphy-0a70b24
+email2: jmurphy@cotality.com
+name3: Mark Dixon and Lawrence Vulis
+website3: https://uk.linkedin.com/in/mark-dixon-32b5315b
+email3: markdixon@cotality.com
+photo1:
+photo2:
+photo3:
 photo:
-
-website: https://www.linkedin.com/in/ilyes-meftah-b2543441/ https://uk.linkedin.com/in/justin-murphy-0a70b24 https://uk.linkedin.com/in/mark-dixon-32b5315b http://linkedin.com/in/lawrence-vulis
 
 domain: D11
 
