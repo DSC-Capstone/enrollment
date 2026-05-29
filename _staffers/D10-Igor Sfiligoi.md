@@ -1,12 +1,15 @@
 ---
-name: Igor Sfiligoi; Jeff Candy; Emily Belli
-
-email: isfiligoi@sdsc.edu; candy@fusion.gat.com; bellie@fusion.gat.com
-
-photo:
-
-website: https://www.linkedin.com/in/igor-sfiligoi-73982a78/; https://www.linkedin.com/in/jeff-candy-0b272523a/; https://www.linkedin.com/in/emily-belli-1431a6141/; https://gacode.io
-
+dual: true
+trio: true
+name1: Igor Sfiligoi
+website1: https://www.linkedin.com/in/igor-sfiligoi-73982a78/
+email1: isfiligoi@sdsc.edu
+name2: Jeff Candy
+website2: https://www.linkedin.com/in/jeff-candy-0b272523a/
+email2: candy@fusion.gat.com
+name3: Emily Belli
+website3: https://www.linkedin.com/in/emily-belli-1431a6141/
+email3: bellie@fusion.gat.com
 industry: true
 
 domain: D10
