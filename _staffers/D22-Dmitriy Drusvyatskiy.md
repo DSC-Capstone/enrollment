@@ -5,7 +5,7 @@ email: ddrusvyatskiy@ucsd.edu
 
 photo:
 
-website: httpssites.google.com/view/dmitriy-drusvyatskiy/
+website: https://sites.google.com/view/dmitriy-drusvyatskiy/
 
 domain: D22
 
