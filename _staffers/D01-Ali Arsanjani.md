@@ -7,7 +7,7 @@ photo:
 
 industry: true
 
-website: alternusvera.com
+website: https://alternusvera.com
 
 domain: D01
 
