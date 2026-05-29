@@ -1,11 +1,11 @@
 ---
-name: Igor Sfiligoi(SDSC) and Nicholas Boechler(MAE)
+name: [Igor Sfiligoi(SDSC)](https://shape.ucsd.edu) and [Nicholas Boechler(MAE)](https://boechler.ucsd.edu) 
 
 email: isfiligoi@sdsc.edu, nboechler@ucsd.edu
 
 photo:
 
-website: https://shape.ucsd.edu https://boechler.ucsd.edu
+website: https://shape.ucsd.edu,  https://boechler.ucsd.edu
 
 domain: D09
 
