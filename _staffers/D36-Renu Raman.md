@@ -1,12 +1,15 @@
 ---
-name: Renu Raman, Simran Arora, Daniel Kang, Brian Chin
-
-email: renu.raman@terizza.com, simarora@stanford, b5chin@ucsd.eduedu
-
-photo:
-
-website: www.terizza.com
-
+dual: true
+trio: true
+name1: Renu Raman
+website1: https://www.terizza.com
+email1: renu.raman@terizza.com
+name2: Simran Arora
+website2: https://www.terizza.com
+email2: simarora@stanford.edu
+name3: Daniel Kang and Brian Chin
+website3: https://www.terizza.com
+email3: b5chin@ucsd.edu
 industry: true
 
 domain: D36
