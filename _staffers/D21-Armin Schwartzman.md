@@ -1,11 +1,13 @@
 ---
-name: Armin Schwartzman, Justin Eldridge
-
-email: armins@ucsd.edu, jeldridge@ucsd.edu
-
-photo:
-
-website: "Armin Schwartzman: https://schwartzman.scholar.st/, Justin Eldridge: eldridgejm.github.io"
+dual: true
+name1: Armin Schwartzman
+website1: https://schwartzman.scholar.st/
+email1: armins@ucsd.edu
+name2: Justin Eldridge
+website2: https://eldridgejm.github.io
+email2: jeldridge@ucsd.edu
+photo1:
+photo2:
 
 domain: D21
 
