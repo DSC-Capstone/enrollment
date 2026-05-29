@@ -1,11 +1,11 @@
 ---
-name: Misha Belkin
-
-email: mbelkin@ucsd.edu
-
-photo:
-
-website: https://misha.belkin-wang.org/
+dual: true
+name1: Misha Belkin
+website1: https://misha.belkin-wang.org/
+email1: mbelkin@ucsd.edu
+name2: Tianhao Wang
+website2: https://tiiao.github.io
+email2: tianhaowang@ucsd.edu
 
 domain: D27
 
