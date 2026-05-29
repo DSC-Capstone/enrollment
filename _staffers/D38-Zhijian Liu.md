@@ -5,7 +5,7 @@ email: zhijian@ucsd.edu
 
 photo:
 
-website: https://zhijianliu.com / https://z-lab.ai
+website: https://z-lab.ai
 
 domain: D38
 
