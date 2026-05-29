@@ -5,7 +5,7 @@ email: tamariutabartell@ucsd.edu
 
 photo:
 
-website: amariutalab.org
+website: https://amariutalab.org
 
 domain: D18
 
