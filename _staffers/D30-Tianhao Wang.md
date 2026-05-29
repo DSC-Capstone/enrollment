@@ -1,4 +1,12 @@
 ---
+dual: true
+name2: Misha Belkin
+website2: https://misha.belkin-wang.org/
+email2: mbelkin@ucsd.edu
+name1: Tianhao Wang
+website1: https://tiiao.github.io
+email1: tianhaowang@ucsd.edu
+
 name: Tianhao Wang
 
 email: tianhaowang@ucsd.edu
