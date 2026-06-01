@@ -31,6 +31,8 @@ summer: |
 
 time: Thursday 1pm or 2pm
 
+industry: true
+
 modality: In-person (need room booked for me; required if mentoring >4 students in-person)
 
 style: |
