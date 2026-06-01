@@ -27,7 +27,7 @@ description: |
 summer: |
   It may be helpful to review the following materials on how the electrical grid works: https://understand-energy.stanford.edu/energy-currencies/electricity-grid .  It is also useful to have experience with PyTorch.
 
-time: This should be based on Haojian's schedule. He mentioned Wednesday afternoons.
+time: Wednesday afternoons
 
 modality: Zoom
 
