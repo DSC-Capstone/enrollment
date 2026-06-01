@@ -1,5 +1,5 @@
 ---
-yamldual: true
+dual: true
 name1: Gabriel Andres Garzo
 website1: https://www.linkedin.com/in/gabriel-andres-garzo-8245474/
 email1: gabrielandres.garzo@rpsandiego.com
