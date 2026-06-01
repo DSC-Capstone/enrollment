@@ -31,6 +31,8 @@ time: This should be based on Haojian's schedule. He mentioned Wednesday afterno
 
 modality: Zoom
 
+industry: true
+
 style: |
   We will meet weekly with students via Zoom.  Mike and Sylvia are not in San Diego, so may meet in person a couple of times during the course of the year.  However we are available to answer questions as needed via remote means.
 
