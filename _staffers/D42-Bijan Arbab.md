@@ -45,3 +45,5 @@ prerequisites:
 
 style: |
   This class focuses on hard and soft human skill
+
+---
