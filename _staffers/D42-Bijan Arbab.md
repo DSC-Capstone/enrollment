@@ -7,7 +7,7 @@ industry: true
 title: "San Diego City & County Data Science: Permits, Citizen Services, and Flood Monitoring"
 name1: Bijan Arbab
 website1:
-email1:bijanarbab@gmail.com
+email1: bijanarbab@gmail.com
 name2: Matt Endo
 website2: https://www.sandiego.gov/panda
 email2: MEndo@sandiego.gov
